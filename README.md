@@ -184,7 +184,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of New Brunswick: https://experience.arcgis.com/experience/8eeb9a2052d641c996dba5de8f25a8aa
     - Government of Newfoundland and Labrador: https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/
     - Government of Northwest Territories: https://www.gov.nt.ca/covid-19/
-    - Government of Nova Scotia: https://novascotia.ca/coronavirus/data/
     - Government of Ontario: https://covid-19.ontario.ca/data
       - City of Toronto: https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/
       - Eastern Ontario Health Unit: https://eohu.ca/en/covid/covid-19-status-update-for-eohu-region
