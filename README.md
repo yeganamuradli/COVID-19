@@ -210,6 +210,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - National Health Information System, Regional Hygiene Stations, Ministry of Health of the Czech Republic: https://onemocneni-aktualne.mzcr.cz/covid-19
   - Denmark:
     - Statens Serum Institute: https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d
+  - Ecuador:
+    - Ministry of Public Health: https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/ 
   - El Salvador:
     - Government of El Salvador: https://covid19.gob.sv/
   - Finland:
