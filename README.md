@@ -158,7 +158,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Virginia: [Department of Health](https://www.vdh.virginia.gov/coronavirus/)
   - Washington: [Department of Health](https://www.doh.wa.gov/emergencies/coronavirus)
   - West Virginia: [Department of Health & Human Resources](https://dhhr.wv.gov/COVID-19/Pages/default.aspx)
-  - Wisconsin: [Department of Health Services](https://www.dhs.wisconsin.gov/covid-19/data.htm)
+  - Wisconsin: [Department of Health Services](https://www.dhs.wisconsin.gov/covid-19/data.htm) (https://data.dhsgis.wi.gov/datasets/wi-dhs::covid-19-data-by-county-v2/about)  
   - Wyoming: [Department of Health](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
