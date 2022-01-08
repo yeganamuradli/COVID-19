@@ -73,7 +73,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-01-08,All,571130,102723
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-01-08,All,30764313,184008
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-01-08,All,1020007,3842
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-01-08,All,70982352,187507
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-01-08,All,70985386,187515
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-01-08,All,7825022,177311
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-01-08,All,9604331,187917
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-01-08,All,2548223,184986
@@ -85,7 +85,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-01-08,All,28324152,192526
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2022-01-08,All,302771,191435
 12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-01-08,All,15762212,184619
-12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-01-08,All,2125056,179835
+12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-01-08,All,2128090,180092
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2022-01-08,All,83875,204184
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,2022-01-08,All,855775,17718
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-01-08,All,366585,2231
@@ -313,7 +313,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 364,IR,IRN,364,,,,Iran,32.427908,53.68804599999999,Iran,2022-01-08,All,119325720,142066
 368,IQ,IRQ,368,,,,Iraq,33.223191,43.679291,Iraq,2022-01-08,All,14428341,35871
 372,IE,IRL,372,,,,Ireland,53.1424,-7.6921,Ireland,2022-01-08,All,9829064,199057
-376,IL,ISR,376,,,,Israel,31.046051,34.851612,Israel,2022-01-08,All,16903127,195286
+376,IL,ISR,376,,,,Israel,31.046051,34.851612,Israel,2022-01-08,All,16906370,195324
 380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,2022-01-08,All,114813988,189895
 38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",2022-01-08,All,2489099,189778
 38017,IT,ITA,380,,,Basilicata,Italy,40.63947052,15.80514834,"Basilicata, Italy",2022-01-08,All,1058586,188069
@@ -365,15 +365,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-01-08,All,2284907,35022
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-01-08,All,5830021,80131
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-01-08,All,2558182,135626
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-01-08,All,4533929,66426
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-01-08,All,145413,34328
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-01-08,All,160568,35063
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-01-08,All,4533969,66427
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-01-08,All,145417,34329
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-01-08,All,160574,35065
 422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-01-08,All,701048,161811
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-01-08,All,320651,60008
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-01-08,All,1841057,121120
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-01-08,All,335819,87489
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-01-08,All,320663,60010
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-01-08,All,1841063,121121
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-01-08,All,335828,87491
 422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-01-08,All,520325,65784
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-01-08,All,480677,81459
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-01-08,All,480680,81460
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-01-08,All,28371,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2022-01-08,All,698383,32600
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-01-08,All,1146910,22676
@@ -477,7 +477,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-01-08,All,19678705,192990
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-01-08,All,5275659,183115
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-01-08,All,16009315,83218
-643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-01-08,All,147217424,100879
+643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-01-08,All,147359496,100976
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-01-08,All,,0
 64302,RU,RUS,643,,,Altai Krai,Russia,52.6932243,82.69314240000001,"Altai Krai, Russia",2022-01-08,All,,0
 64304,RU,RUS,643,,,Amur Oblast,Russia,52.8032368,128.437295,"Amur Oblast, Russia",2022-01-08,All,,0
@@ -541,7 +541,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 64373,RU,RUS,643,,,Tyumen Oblast,Russia,58.8206488,70.36588370000001,"Tyumen Oblast, Russia",2022-01-08,All,,0
 64375,RU,RUS,643,,,Udmurt Republic,Russia,57.1961165,52.69598320000001,"Udmurt Republic, Russia",2022-01-08,All,,0
 64376,RU,RUS,643,,,Ulyanovsk Oblast,Russia,54.1463177,47.2324921,"Ulyanovsk Oblast, Russia",2022-01-08,All,,0
-64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-01-08,All,147217424,
+64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-01-08,All,147359496,
 64377,RU,RUS,643,,,Vladimir Oblast,Russia,56.0503336,40.6561633,"Vladimir Oblast, Russia",2022-01-08,All,,0
 64378,RU,RUS,643,,,Volgograd Oblast,Russia,49.6048339,44.29035820000001,"Volgograd Oblast, Russia",2022-01-08,All,,0
 64379,RU,RUS,643,,,Vologda Oblast,Russia,60.0391461,43.1215213,"Vologda Oblast, Russia",2022-01-08,All,,0
