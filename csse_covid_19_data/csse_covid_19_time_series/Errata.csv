@@ -32935,3 +32935,55 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/06/2022,time_series_covid19_deaths_global.csv,Peru,01/05/2022,202867,202904,Correct Peru deaths data
 01/10/2022,time_series_covid19_confirmed_global.csv,France,01/07/2022,11280912,11275841,Correct France confirmed data
 01/10/2022,time_series_covid19_deaths_global.csv,France,01/07/2022,122647,122640,Correct France deaths data
+01/11/2022,time_series_covid19_confirmed_US.csv,"Nodaway, Missouri, US",01/04/2022,4141,4179,"Correct Nodaway, Missouri, US confirmed data"
+01/11/2022,time_series_covid19_confirmed_US.csv,"Nodaway, Missouri, US",01/05/2022,4141,4261,"Correct Nodaway, Missouri, US confirmed data"
+01/11/2022,time_series_covid19_confirmed_US.csv,"Nodaway, Missouri, US",01/06/2022,4141,4298,"Correct Nodaway, Missouri, US confirmed data"
+01/11/2022,time_series_covid19_confirmed_US.csv,"Nodaway, Missouri, US",01/07/2022,4141,4298,"Correct Nodaway, Missouri, US confirmed data"
+01/11/2022,time_series_covid19_confirmed_US.csv,"Nodaway, Missouri, US",01/08/2022,4141,4338,"Correct Nodaway, Missouri, US confirmed data"
+01/11/2022,time_series_covid19_confirmed_US.csv,"Nodaway, Missouri, US",01/09/2022,4141,4422,"Correct Nodaway, Missouri, US confirmed data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",12/21/2021,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",12/22/2021,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",12/23/2021,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",12/24/2021,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",12/25/2021,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",12/26/2021,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",12/27/2021,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",12/28/2021,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",12/29/2021,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",12/30/2021,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",12/31/2021,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",01/01/2022,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",01/02/2022,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",01/03/2022,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",01/04/2022,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",01/05/2022,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",01/06/2022,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",01/07/2022,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",01/08/2022,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_deaths_US.csv,"Nodaway, Missouri, US",01/09/2022,37,39,"Correct Nodaway, Missouri, US deaths data"
+01/11/2022,time_series_covid19_confirmed_global.csv,US,01/04/2022,57077565,57077603,Correct US confirmed data
+01/11/2022,time_series_covid19_confirmed_global.csv,US,01/05/2022,57700873,57700993,Correct US confirmed data
+01/11/2022,time_series_covid19_confirmed_global.csv,US,01/06/2022,58487697,58487854,Correct US confirmed data
+01/11/2022,time_series_covid19_confirmed_global.csv,US,01/07/2022,59388529,59388686,Correct US confirmed data
+01/11/2022,time_series_covid19_confirmed_global.csv,US,01/08/2022,59767221,59767418,Correct US confirmed data
+01/11/2022,time_series_covid19_confirmed_global.csv,US,01/09/2022,60074429,60074710,Correct US confirmed data
+01/11/2022,time_series_covid19_deaths_global.csv,US,12/21/2021,811266,811268,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,12/22/2021,813312,813314,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,12/23/2021,816699,816701,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,12/24/2021,817294,817296,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,12/25/2021,817410,817412,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,12/26/2021,817512,817514,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,12/27/2021,819289,819291,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,12/28/2021,821584,821586,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,12/29/2021,823781,823783,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,12/30/2021,825193,825195,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,12/31/2021,825776,825778,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,01/01/2022,826043,826045,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,01/02/2022,826287,826289,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,01/03/2022,827975,827977,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,01/04/2022,830132,830134,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,01/05/2022,832118,832120,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,01/06/2022,833988,833990,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,01/07/2022,836603,836605,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,01/08/2022,837264,837266,Correct US deaths data
+01/11/2022,time_series_covid19_deaths_global.csv,US,01/09/2022,837594,837596,Correct US deaths data
