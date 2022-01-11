@@ -32987,3 +32987,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/11/2022,time_series_covid19_deaths_global.csv,US,01/07/2022,836603,836605,Correct US deaths data
 01/11/2022,time_series_covid19_deaths_global.csv,US,01/08/2022,837264,837266,Correct US deaths data
 01/11/2022,time_series_covid19_deaths_global.csv,US,01/09/2022,837594,837596,Correct US deaths data
+01/11/2022,time_series_covid19_confirmed_US.csv,"Maricopa, Arizona, US",01/10/2022,949357,947357,"Correct Maricopa, Arizona, US confirmed data"
+01/11/2022,time_series_covid19_confirmed_global.csv,US,01/10/2022,61558085,61556085,Correct US confirmed data
