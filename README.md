@@ -114,7 +114,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - North Dakota: [Department of Health](https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases)
   - Northern Mariana Islands: [Northern Mariana Islands Commonwealth Dept of Public Health](https://chcc.datadriven.health/ui/99/dashboard/cbaeede2-4f75-11eb-b380-0242ac1d004a)
   - Ohio: [Department of Health](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home)
-  - Oklahoma: [Department of Health](https://looker-dashboards.ok.gov/embed/dashboards/44)
+  - Oklahoma: [Department of Health](https://public.tableau.com/views/COVIDDash_v2/OKMockupDashboard?:embed=y&:showVizHome=no&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=yes&:display_spinner=yes&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0)
   - Oregon: [Health Authority](https://govstatus.egov.com/OR-OHA-COVID-19)
   - Pennsylvania: [Department of Health](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx)
     - [Philadelphia](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/)
