@@ -72,7 +72,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Connecticut: [Department of Public Health](https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/)
   - Delaware: [Emergency Management Agency](https://coronavirus.delaware.gov/)
   - District of Columbia: [Government of The District of Columbia](https://coronavirus.dc.gov/page/coronavirus-data)
-  - Florida: [Department of Health](https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86)
+  - Florida: [Department of Health](https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86) & [U.S. Department of Health & Human Services](https://protect-public.hhs.gov/datasets/HHSGOV::community-profile-report-counties/about)
   - Georgia: [Department of Public Health](https://dph.georgia.gov/covid-19-daily-status-report)
   - Guam: [Department of Public Health and Social Services](http://dphss.guam.gov/covid-19/)
   - Hawaii: [Department of Health](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/)
