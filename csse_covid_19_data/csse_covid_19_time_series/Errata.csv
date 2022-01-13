@@ -33039,3 +33039,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/13/2022,time_series_covid19_confirmed_global.csv,Brazil,01/06/2022,22328252,22386930,Correct Brazil confirmed data
 01/13/2022,time_series_covid19_confirmed_global.csv,Brazil,01/07/2022,22328252,22450222,Correct Brazil confirmed data
 01/13/2022,time_series_covid19_confirmed_global.csv,Brazil,01/08/2022,22328252,22499525,Correct Brazil confirmed data
+01/13/2022,time_series_covid19_deaths_global.csv,Brazil,01/07/2022,619654,619822,Correct Brazil deaths data
+01/13/2022,time_series_covid19_deaths_global.csv,Brazil,01/08/2022,619654,619937,Correct Brazil deaths data
