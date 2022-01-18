@@ -33064,3 +33064,6 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/17/2022,time_series_covid19_confirmed_global.csv,US,01/14/2022,64920604,64920670,Correct US confirmed data
 01/17/2022,time_series_covid19_confirmed_global.csv,US,01/15/2022,65445397,65445434,Correct US confirmed data
 01/17/2022,time_series_covid19_deaths_global.csv,US,01/14/2022,849256,849257,Correct US deaths data
+01/18/2022,time_series_covid19_confirmed_US.csv,"Dane, Wisconsin, US",01/17/2022,81956,98994,"Correct Dane, Wisconsin, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Waukesha, Wisconsin, US",01/17/2022,85141,100067,"Correct Waukesha, Wisconsin, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_global.csv,US,01/17/2022,66421749,66453713,Correct US confirmed data
