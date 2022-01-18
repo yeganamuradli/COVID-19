@@ -45,15 +45,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-01-18,All,11672089,115118
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-01-18,All,312840,79552
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2022-01-18,All,3311811,194631
-50,BD,BGD,50,,,,Bangladesh,23.685,90.3563,Bangladesh,2022-01-18,All,145304878,88229
-5001,BD,BGD,50,,,Barisal,Bangladesh,22.701,90.3535,"Barisal, Bangladesh",2022-01-18,All,8271194,99345
-5002,BD,BGD,50,,,Chittagong,Bangladesh,22.3569,91.7832,"Chittagong, Bangladesh",2022-01-18,All,27272826,93576
-5003,BD,BGD,50,,,Dhaka,Bangladesh,23.8103,90.4125,"Dhaka, Bangladesh",2022-01-18,All,38985068,107003
-5004,BD,BGD,50,,,Khulna,Bangladesh,22.8456,89.5403,"Khulna, Bangladesh",2022-01-18,All,17500924,111557
-5005,BD,BGD,50,,,Mymensingh,Bangladesh,24.7471,90.4203,"Mymensingh, Bangladesh",2022-01-18,All,10151562,89283
-5006,BD,BGD,50,,,Rajshahi,Bangladesh,23.685,90.3563,"Rajshahi, Bangladesh",2022-01-18,All,19017335,102875
-5007,BD,BGD,50,,,Rangpur,Bangladesh,24.3745,88.6042,"Rangpur, Bangladesh",2022-01-18,All,15585213,98717
-5008,BD,BGD,50,,,Sylhet,Bangladesh,24.8949,91.8687,"Sylhet, Bangladesh",2022-01-18,All,8520756,86884
+50,BD,BGD,50,,,,Bangladesh,23.685,90.3563,Bangladesh,2022-01-18,All,146349736,88864
+5001,BD,BGD,50,,,Barisal,Bangladesh,22.701,90.3535,"Barisal, Bangladesh",2022-01-18,All,8347159,100258
+5002,BD,BGD,50,,,Chittagong,Bangladesh,22.3569,91.7832,"Chittagong, Bangladesh",2022-01-18,All,27533235,94469
+5003,BD,BGD,50,,,Dhaka,Bangladesh,23.8103,90.4125,"Dhaka, Bangladesh",2022-01-18,All,39178050,107533
+5004,BD,BGD,50,,,Khulna,Bangladesh,22.8456,89.5403,"Khulna, Bangladesh",2022-01-18,All,17597567,112173
+5005,BD,BGD,50,,,Mymensingh,Bangladesh,24.7471,90.4203,"Mymensingh, Bangladesh",2022-01-18,All,10229524,89969
+5006,BD,BGD,50,,,Rajshahi,Bangladesh,23.685,90.3563,"Rajshahi, Bangladesh",2022-01-18,All,19187961,103798
+5007,BD,BGD,50,,,Rangpur,Bangladesh,24.3745,88.6042,"Rangpur, Bangladesh",2022-01-18,All,15674784,99284
+5008,BD,BGD,50,,,Sylhet,Bangladesh,24.8949,91.8687,"Sylhet, Bangladesh",2022-01-18,All,8601456,87707
 5009,BD,BGD,50,,,Unknown,Bangladesh,,,"Unknown, Bangladesh",2022-01-18,All,0,0
 52,BB,BRB,52,,,,Barbados,13.1939,-59.5432,Barbados,2022-01-18,All,303391,105574
 112,BY,BLR,112,,,,Belarus,53.7098,27.9534,Belarus,2022-01-18,All,8651776,91559
@@ -158,7 +158,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 262,DJ,DJI,262,,,,Djibouti,11.8251,42.5903,Djibouti,2022-01-18,All,207952,21047
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2022-01-18,All,59624,82821
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2022-01-18,All,14366533,132436
-218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2022-01-18,All,28946355,164066
+218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2022-01-18,All,28986467,164293
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802498,Egypt,2022-01-18,All,61224838,59828
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2022-01-18,All,9651029,148793
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2022-01-18,All,453502,32324
@@ -235,7 +235,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 332,HT,HTI,332,,,,Haiti,18.9712,-72.2852,Haiti,2022-01-18,All,202408,1775
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-01-18,All,9922570,100181
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-01-18,All,15398364,159397
-352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-01-18,All,742545,217595
+352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-01-18,All,753008,220661
 356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-01-18,All,1616793288,117158
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-01-18,All,638806,153177
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-01-18,All,77814165,144358
@@ -365,15 +365,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-01-18,All,2352641,36060
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-01-18,All,5830021,80131
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-01-18,All,2697076,142989
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-01-18,All,4742963,69489
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-01-18,All,157650,37217
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-01-18,All,173084,37796
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-01-18,All,730654,168645
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-01-18,All,343810,64342
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-01-18,All,1903114,125203
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-01-18,All,352782,91908
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-01-18,All,547289,69193
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-01-18,All,505723,85704
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-01-18,All,4743123,69491
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-01-18,All,157654,37218
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-01-18,All,173087,37797
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-01-18,All,730682,168651
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-01-18,All,343827,64345
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-01-18,All,1903173,125207
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-01-18,All,352798,91913
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-01-18,All,547306,69195
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-01-18,All,505739,85707
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-01-18,All,28857,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2022-01-18,All,698383,32600
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-01-18,All,1146910,22676
@@ -557,7 +557,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-01-18,All,264438,134827
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-01-18,All,62869,185246
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-01-18,All,151040,68917
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-01-18,All,54286846,155934
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-01-18,All,54290307,155944
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-01-18,All,2360122,14095
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-01-18,All,8338285,95432
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-01-18,All,183472,186569
@@ -767,7 +767,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-01-18,All,11692057,214010
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000006,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-01-18,All,56343,145521
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-01-18,All,6681424,212879
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-01-18,All,7182580,206768
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-01-18,All,7185240,206845
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-01-18,All,40380923,120651
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-01-18,All,152711,52176
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-01-18,All,30049714,105675
