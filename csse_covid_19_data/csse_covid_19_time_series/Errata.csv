@@ -33120,3 +33120,6 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/18/2022,time_series_covid19_deaths_global.csv,Canada,01/15/2022,0,2,Correct Canada deaths data
 01/18/2022,time_series_covid19_deaths_global.csv,Canada,01/16/2022,0,2,Correct Canada deaths data
 01/18/2022,time_series_covid19_deaths_global.csv,Canada,01/17/2022,0,2,Correct Canada deaths data
+01/18/2022,time_series_covid19_deaths_US.csv,"Dane, Wisconsin, US",01/17/2022,430,433,"Correct Dane, Wisconsin, US deaths data"
+01/18/2022,time_series_covid19_deaths_US.csv,"Waukesha, Wisconsin, US",01/17/2022,854,858,"Correct Waukesha, Wisconsin, US deaths data"
+01/18/2022,time_series_covid19_deaths_global.csv,US,01/17/2022,852055,852062,Correct US deaths data
