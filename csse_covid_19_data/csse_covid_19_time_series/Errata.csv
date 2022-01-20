@@ -33172,3 +33172,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/18/2022,time_series_covid19_deaths_global.csv,Thailand,01/15/2022,21898,21916,Correct Thailand deaths data
 01/18/2022,time_series_covid19_deaths_global.csv,Thailand,01/16/2022,21898,21925,Correct Thailand deaths data
 01/18/2022,time_series_covid19_deaths_global.csv,Thailand,01/17/2022,21898,21938,Correct Thailand deaths data
+01/20/2022,time_series_covid19_confirmed_global.csv,"Korea, South",12/02/2021,457612,462555,"Correct Korea, South confirmed data"
+01/20/2022,time_series_covid19_deaths_global.csv,"Korea, South",12/02/2021,3705,3739,"Correct Korea, South deaths data"
