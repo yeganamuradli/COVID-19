@@ -448,6 +448,7 @@ Date: Location | File | Change | Data source for change
 * January 05, 2022: Nova Scotia, Canada | Reporting in Nova Scotia, Canada has been corrected to align with the Government of Canada. | [Canada Government](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 * January 10, 2022: Kansas, US | Reporting in Kansas, US has been corrected to align with the state.
 * January 11, 2022: Thailand | Reporting in Thailand has been corrected from 07-22-2020 to 01-05-2022
+* January 21, 2022: Texas, US | Reporting in Texas has been corrected from 04-12-2020 to 01-20-2022. This correction is to align our data with the state reporting.
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
