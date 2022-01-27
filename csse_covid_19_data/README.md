@@ -455,6 +455,7 @@ Date: Location | File | Change | Data source for change
 * January 21, 2022: Texas, US | Reporting in Texas has been corrected from 04-12-2020 to 01-20-2022. This correction is to align our data with the state reporting.
 * January 22, 2022: Texas, US | Reporting in Texas has been corrected from 04-01-2020 to 01-16-2022. This correction is to align our data with the state reporting.
 * January 27, 2022: Finland | Reporting in Finland has been corrected from 02-11-2022 to 01-26-2022. This correction is to align our data with the World Health Reporting.
+* January 27, 2022: Ontario, Canada | Reporting in Ontario, Canada has been corrected from 03-24-2020 to 01-26-2022. This correction is to align our data with the [Ontario Government](https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario/resource/ed270bb8-340b-41f9-a7c6-e8ef587e6d11).
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
