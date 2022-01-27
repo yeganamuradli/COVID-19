@@ -454,6 +454,7 @@ Date: Location | File | Change | Data source for change
 * January 11, 2022: Thailand | Reporting in Thailand has been corrected from 07-22-2020 to 01-05-2022
 * January 21, 2022: Texas, US | Reporting in Texas has been corrected from 04-12-2020 to 01-20-2022. This correction is to align our data with the state reporting.
 * January 22, 2022: Texas, US | Reporting in Texas has been corrected from 04-01-2020 to 01-16-2022. This correction is to align our data with the state reporting.
+* January 27, 2022: Finland | Reporting in Finland has been corrected from 02-11-2022 to 01-26-2022. This correction is to align our data with the World Health Reporting.
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
