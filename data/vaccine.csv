@@ -158,7 +158,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 262,DJ,DJI,262,,,,Djibouti,11.8251,42.5903,Djibouti,2022-01-29,All,207952,21047
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2022-01-29,All,60098,83479
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2022-01-29,All,14619342,134766
-218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2022-01-29,All,29706090,168372
+218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2022-01-29,All,29773279,168753
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802498,Egypt,2022-01-29,All,63630482,62178
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2022-01-29,All,9936259,153190
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2022-01-29,All,455655,32477
@@ -559,7 +559,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-01-29,All,267016,136142
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-01-29,All,67241,198128
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-01-29,All,151040,68917
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-01-29,All,56663165,162760
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-01-29,All,56663597,162761
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-01-29,All,2360122,14095
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-01-29,All,8371669,95814
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-01-29,All,190758,193978
@@ -769,7 +769,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-01-29,All,11809217,216155
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000006,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-01-29,All,56343,145521
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-01-29,All,6748194,215006
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-01-29,All,7406743,213221
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-01-29,All,7406749,213221
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-01-29,All,41680571,124534
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-01-29,All,178464,60975
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-01-29,All,30049714,105675
