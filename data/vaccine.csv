@@ -79,7 +79,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2022-02-08,All,90996,221520
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,2022-02-08,All,698869,14470
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-02-08,All,392157,2387
-152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2022-02-08,All,46977702,245748
+152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2022-02-08,All,47052284,246138
 156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-02-08,All,3010669000,214331
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-02-08,All,11449264,152718
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-02-08,All,1045319,160981
@@ -355,15 +355,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-02-08,All,2549921,39084
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-02-08,All,7808722,107328
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-02-08,All,2807846,148862
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-02-08,All,5021685,73573
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-02-08,All,171403,40463
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-02-08,All,187471,40938
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-02-08,All,776228,179164
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-02-08,All,371108,69451
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-02-08,All,1988009,130788
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-02-08,All,376029,97965
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-02-08,All,582806,73684
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-02-08,All,539802,91479
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-02-08,All,5021735,73573
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-02-08,All,171420,40467
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-02-08,All,187473,40939
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-02-08,All,776229,179164
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-02-08,All,371111,69451
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-02-08,All,1988017,130788
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-02-08,All,376042,97968
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-02-08,All,582809,73684
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-02-08,All,539805,91480
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-02-08,All,28829,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2022-02-08,All,830779,38780
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-02-08,All,1146910,22676
@@ -551,7 +551,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-02-08,All,267016,136142
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-02-08,All,68742,202551
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-02-08,All,151040,68917
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-02-08,All,58833448,168994
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-02-08,All,58844954,169027
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-02-08,All,2044504,12210
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-02-08,All,8414783,96307
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-02-08,All,190758,193978
@@ -577,26 +577,26 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2022-02-08,All,30255366,51013
 728,SS,SSD,728,,,,South Sudan,6.877000000000002,31.307,South Sudan,2022-02-08,All,372634,3328
 724,ES,ESP,724,,,,Spain,40.463667,-3.74922,Spain,2022-02-08,All,96160061,205668
-72401,ES,ESP,724,,,Andalusia,Spain,37.5443,-4.7278,"Andalusia, Spain",2022-02-08,All,16438368,195058
-72402,ES,ESP,724,,,Aragon,Spain,41.5976,-0.9057,"Aragon, Spain",2022-02-08,All,2559661,193827
-72403,ES,ESP,724,,,Asturias,Spain,43.3614,-5.8593,"Asturias, Spain",2022-02-08,All,2229841,218140
-72404,ES,ESP,724,,,Baleares,Spain,39.710358,2.995148,"Baleares, Spain",2022-02-08,All,1979861,166624
-72411,ES,ESP,724,,,C. Valenciana,Spain,39.484,-0.7533,"C. Valenciana, Spain",2022-02-08,All,9691210,194799
-72405,ES,ESP,724,,,Canarias,Spain,28.2916,-16.6291,"Canarias, Spain",2022-02-08,All,3992027,180888
-72406,ES,ESP,724,,,Cantabria,Spain,43.1828,-3.9878,"Cantabria, Spain",2022-02-08,All,1212139,208399
-72407,ES,ESP,724,,,Castilla - La Mancha,Spain,39.2796,-3.0977,"Castilla - La Mancha, Spain",2022-02-08,All,3790984,186300
-72408,ES,ESP,724,,,Castilla y Leon,Spain,41.8357,-4.3976,"Castilla y Leon, Spain",2022-02-08,All,5136753,213343
-72409,ES,ESP,724,,,Catalonia,Spain,41.5912,1.5209,"Catalonia, Spain",2022-02-08,All,13733102,181500
-72410,ES,ESP,724,,,Ceuta,Spain,35.8894,-5.3213,"Ceuta, Spain",2022-02-08,All,146702,172938
-72412,ES,ESP,724,,,Extremadura,Spain,39.4937,-6.0679,"Extremadura, Spain",2022-02-08,All,2199752,206467
-72413,ES,ESP,724,,,Galicia,Spain,42.5751,-8.1339,"Galicia, Spain",2022-02-08,All,5949058,220299
-72419,ES,ESP,724,,,La Rioja,Spain,42.2871,-2.5396,"La Rioja, Spain",2022-02-08,All,612559,195349
-72414,ES,ESP,724,,,Madrid,Spain,40.4168,-3.7038,"Madrid, Spain",2022-02-08,All,12669396,190756
-72415,ES,ESP,724,,,Melilla,Spain,35.2923,-2.9381,"Melilla, Spain",2022-02-08,All,134397,158694
-72416,ES,ESP,724,,,Murcia,Spain,37.9922,-1.1307,"Murcia, Spain",2022-02-08,All,2713177,182378
-72417,ES,ESP,724,,,Navarra,Spain,42.6954,-1.6761,"Navarra, Spain",2022-02-08,All,1258083,193567
-72418,ES,ESP,724,,,Pais Vasco,Spain,42.9896,-2.6189,"Pais Vasco, Spain",2022-02-08,All,4285299,196764
-72420,ES,ESP,724,,,Unknown,Spain,,,"Unknown, Spain",2022-02-08,All,211001,
+72401,ES,ESP,724,,,Andalusia,Spain,37.5443,-4.7278,"Andalusia, Spain",2022-02-08,All,16469141,195423
+72402,ES,ESP,724,,,Aragon,Spain,41.5976,-0.9057,"Aragon, Spain",2022-02-08,All,2561460,193963
+72403,ES,ESP,724,,,Asturias,Spain,43.3614,-5.8593,"Asturias, Spain",2022-02-08,All,2230527,218207
+72404,ES,ESP,724,,,Baleares,Spain,39.710358,2.995148,"Baleares, Spain",2022-02-08,All,1980879,166709
+72411,ES,ESP,724,,,C. Valenciana,Spain,39.484,-0.7533,"C. Valenciana, Spain",2022-02-08,All,9709065,195158
+72405,ES,ESP,724,,,Canarias,Spain,28.2916,-16.6291,"Canarias, Spain",2022-02-08,All,3996508,181091
+72406,ES,ESP,724,,,Cantabria,Spain,43.1828,-3.9878,"Cantabria, Spain",2022-02-08,All,1215019,208895
+72407,ES,ESP,724,,,Castilla - La Mancha,Spain,39.2796,-3.0977,"Castilla - La Mancha, Spain",2022-02-08,All,3823056,187876
+72408,ES,ESP,724,,,Castilla y Leon,Spain,41.8357,-4.3976,"Castilla y Leon, Spain",2022-02-08,All,5144909,213682
+72409,ES,ESP,724,,,Catalonia,Spain,41.5912,1.5209,"Catalonia, Spain",2022-02-08,All,13741327,181609
+72410,ES,ESP,724,,,Ceuta,Spain,35.8894,-5.3213,"Ceuta, Spain",2022-02-08,All,146899,173170
+72412,ES,ESP,724,,,Extremadura,Spain,39.4937,-6.0679,"Extremadura, Spain",2022-02-08,All,2205971,207051
+72413,ES,ESP,724,,,Galicia,Spain,42.5751,-8.1339,"Galicia, Spain",2022-02-08,All,5950422,220350
+72419,ES,ESP,724,,,La Rioja,Spain,42.2871,-2.5396,"La Rioja, Spain",2022-02-08,All,613975,195800
+72414,ES,ESP,724,,,Madrid,Spain,40.4168,-3.7038,"Madrid, Spain",2022-02-08,All,12704155,191280
+72415,ES,ESP,724,,,Melilla,Spain,35.2923,-2.9381,"Melilla, Spain",2022-02-08,All,134609,158945
+72416,ES,ESP,724,,,Murcia,Spain,37.9922,-1.1307,"Murcia, Spain",2022-02-08,All,2714509,182468
+72417,ES,ESP,724,,,Navarra,Spain,42.6954,-1.6761,"Navarra, Spain",2022-02-08,All,1259309,193755
+72418,ES,ESP,724,,,Pais Vasco,Spain,42.9896,-2.6189,"Pais Vasco, Spain",2022-02-08,All,4288302,196902
+72420,ES,ESP,724,,,Unknown,Spain,,,"Unknown, Spain",2022-02-08,All,211345,
 144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999998,Sri Lanka,2022-02-08,All,36657865,171192
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,2022-02-08,All,4991228,11382
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,2022-02-08,All,539297,91930
@@ -659,14 +659,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2022-02-08,All,2515341,30383
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2022-02-08,All,1492714,106661
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2022-02-08,All,14436943,122154
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2022-02-08,All,143125638,169702
-840,US,USA,840,,,,US,40.0,-100.0,US,2022-02-08,All,540778067,164137
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2022-02-08,All,143303935,169914
+840,US,USA,840,,,,US,40.0,-100.0,US,2022-02-08,All,540857313,164161
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2022-02-08,All,5993802,122243
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2022-02-08,All,1069334,146174
 16,AS,ASM,16,60,,American Samoa,US,-14.271,-170.132,"American Samoa, US",2022-02-08,All,84396,151679
 84000004,US,USA,840,4,,Arizona,US,33.7298,-111.4312,"Arizona, US",2022-02-08,All,11301771,155271
 84000005,US,USA,840,5,,Arkansas,US,34.9697,-92.3731,"Arkansas, US",2022-02-08,All,4025342,133386
-84000006,US,USA,840,6,,California,US,36.1162,-119.6816,"California, US",2022-02-08,All,70183793,177625
+84000006,US,USA,840,6,,California,US,36.1162,-119.6816,"California, US",2022-02-08,All,70263039,177826
 84000008,US,USA,840,8,,Colorado,US,39.0598,-105.3111,"Colorado, US",2022-02-08,All,10138619,176056
 84000009,US,USA,840,9,,Connecticut,US,41.5978,-72.7554,"Connecticut, US",2022-02-08,All,7168952,201076
 84000010,US,USA,840,10,,Delaware,US,39.3185,-75.5071,"Delaware, US",2022-02-08,All,1696033,174172
@@ -745,7 +745,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 80426,UA,UKR,804,,,Zaporizhia Oblast,Ukraine,47.8388,35.1396,"Zaporizhia Oblast, Ukraine",2022-02-08,All,1206759,70742
 80427,UA,UKR,804,,,Zhytomyr Oblast,Ukraine,50.2547,28.6587,"Zhytomyr Oblast, Ukraine",2022-02-08,All,917974,75231
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,2022-02-08,All,23756030,240192
-826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2022-02-08,All,139715737,205809
+826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2022-02-08,All,139715744,205809
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2022-02-08,All,21612,144060
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2022-02-08,All,121792,195577
 92,VG,VGB,92,,,British Virgin Islands,United Kingdom,18.4207,-64.64,"British Virgin Islands, United Kingdom",2022-02-08,All,36384,120329
@@ -754,14 +754,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",2022-02-08,All,116285576,207737
 238,FK,FLK,238,,,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,"Falkland Islands (Malvinas), United Kingdom",2022-02-08,All,4407,126528
 292,GI,GIB,292,,,Gibraltar,United Kingdom,36.1408,-5.3536,"Gibraltar, United Kingdom",2022-02-08,All,111541,331070
-833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",2022-02-08,All,185864,218581
+833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",2022-02-08,All,185871,218589
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366,"Montserrat, United Kingdom",2022-02-08,All,3838,76775
 82602,GB,GBR,826,,,Northern Ireland,United Kingdom,54.7877,-6.4923,"Northern Ireland, United Kingdom",2022-02-08,All,3685799,195886
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2022-02-08,All,7892,139410
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-02-08,All,11886038,217561
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000006,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-02-08,All,67463,174241
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-02-08,All,6793388,216446
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-02-08,All,7508722,216157
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-02-08,All,7509159,216170
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-02-08,All,42459659,126861
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-02-08,All,184045,62882
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-02-08,All,35352675,124323
