@@ -455,13 +455,14 @@ Date: Location | File | Change | Data source for change
 * November 18, 2021: Slovakia | Reporting in Slovakia has been modified to include probable cases. A back-distribution of probable cases from official sources has been issued| | [Slovakia Dashboard](https://korona.gov.sk/koronavirus-na-slovensku-v-cislach/)
 * December 23, 2021: Brazil | Reporting in Brazil has been corrected to align with the Federal University of Vicosa Github Repository. This action was in response to the cyber attack on the Brazil Ministry of Health source.| [Federal University of Viçosa Github Repository](https://github.com/wcota/covid19br/blob/master/cases-brazil-states.csv)
 * December 24, 2021: Kentucky, US | Reporting in Kentucky, US has been corrected to align with the Kentucky Cabinet For Health and Family Services. | [Kentucky Cabinet For Health and Family Services](https://chfs.ky.gov/Pages/cvdaily.aspx?View=Dec.%202021%20Daily%20Summaries&Title=Table%20Viewer%20Webpart)
-* January 05, 2022: Nova Scotia, Canada | Reporting in Nova Scotia, Canada has been corrected to align with the Government of Canada. | [Canada Government](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
+* January 5, 2022: Nova Scotia, Canada | Reporting in Nova Scotia, Canada has been corrected to align with the Government of Canada. | [Canada Government](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 * January 10, 2022: Kansas, US | Reporting in Kansas, US has been corrected to align with the state.
 * January 11, 2022: Thailand | Reporting in Thailand has been corrected from 07-22-2020 to 01-05-2022
 * January 21, 2022: Texas, US | Reporting in Texas has been corrected from 04-12-2020 to 01-20-2022. This correction is to align our data with the state reporting.
 * January 22, 2022: Texas, US | Reporting in Texas has been corrected from 04-01-2020 to 01-16-2022. This correction is to align our data with the state reporting.
 * January 27, 2022: Finland | Reporting in Finland has been corrected from 02-11-2022 to 01-26-2022. This correction is to align our data with the World Health Reporting.
 * January 27, 2022: Ontario, Canada | Reporting in Ontario, Canada has been corrected from 03-24-2020 to 01-26-2022. This correction is to align our data with the [Ontario Government](https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario/resource/ed270bb8-340b-41f9-a7c6-e8ef587e6d11).
+* February 8, 2022: Mongolia | Reporting in Mongolia has been corrected from 03-17-2020 to 02-07-2022. This correction is to align our data with the [World Health Organization](https://covid19.who.int/region/wpro/country/mn).
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
