@@ -41,7 +41,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-02-15,All,0,0
 3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-02-15,All,13893050,209551
 3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-02-15,All,5488927,208656
-40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-02-15,All,17900061,198748
+40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-02-15,All,17911531,198875
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-02-15,All,12478257,123069
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-02-15,All,323346,82224
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2022-02-15,All,3375361,198365
@@ -355,32 +355,32 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-02-15,All,2599981,39851
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-02-15,All,7808722,107328
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-02-15,All,2821443,149583
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-02-15,All,5074603,74348
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-02-15,All,174310,41150
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-02-15,All,191656,41852
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-02-15,All,783103,180751
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-02-15,All,378868,70903
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-02-15,All,2004319,131861
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-02-15,All,379605,98896
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-02-15,All,589067,74475
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-02-15,All,544832,92332
-422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-02-15,All,28843,
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-02-15,All,5077742,74394
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-02-15,All,174395,41170
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-02-15,All,191817,41887
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-02-15,All,783903,180935
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-02-15,All,379071,70941
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-02-15,All,2005298,131925
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-02-15,All,379750,98934
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-02-15,All,589610,74544
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-02-15,All,545054,92369
+422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-02-15,All,28844,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2022-02-15,All,857925,40047
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-02-15,All,1200630,23738
 434,LY,LBY,434,,,,Libya,26.3351,17.228331,Libya,2022-02-15,All,3124669,45474
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2022-02-15,All,69939,183388
-440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-02-15,All,4438282,163034
-44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2022-02-15,All,210405,
-44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-02-15,All,970648,
-44003,LT,LTU,440,,,Klaipeda,Lithuania,,,"Klaipeda, Lithuania",2022-02-15,All,428529,
-44004,LT,LTU,440,,,Marijampole,Lithuania,,,"Marijampole, Lithuania",2022-02-15,All,191499,
-44005,LT,LTU,440,,,Panevezys,Lithuania,,,"Panevezys, Lithuania",2022-02-15,All,332681,
-44006,LT,LTU,440,,,Siauliai,Lithuania,,,"Siauliai, Lithuania",2022-02-15,All,394717,
-44007,LT,LTU,440,,,Taurage,Lithuania,,,"Taurage, Lithuania",2022-02-15,All,121475,
-44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2022-02-15,All,163005,
+440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-02-15,All,4439460,163078
+44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2022-02-15,All,210455,
+44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-02-15,All,970885,
+44003,LT,LTU,440,,,Klaipeda,Lithuania,,,"Klaipeda, Lithuania",2022-02-15,All,428619,
+44004,LT,LTU,440,,,Marijampole,Lithuania,,,"Marijampole, Lithuania",2022-02-15,All,191537,
+44005,LT,LTU,440,,,Panevezys,Lithuania,,,"Panevezys, Lithuania",2022-02-15,All,332776,
+44006,LT,LTU,440,,,Siauliai,Lithuania,,,"Siauliai, Lithuania",2022-02-15,All,394803,
+44007,LT,LTU,440,,,Taurage,Lithuania,,,"Taurage, Lithuania",2022-02-15,All,121531,
+44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2022-02-15,All,163050,
 44011,LT,LTU,440,,,Unknown,Lithuania,,,"Unknown, Lithuania",2022-02-15,All,60853,
-44009,LT,LTU,440,,,Utena,Lithuania,,,"Utena, Lithuania",2022-02-15,All,197101,
-44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2022-02-15,All,1427961,
+44009,LT,LTU,440,,,Utena,Lithuania,,,"Utena, Lithuania",2022-02-15,All,197149,
+44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2022-02-15,All,1428393,
 442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2022-02-15,All,1257424,200874
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,2022-02-15,All,1148971,4149
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2022-02-15,All,1896669,9914
