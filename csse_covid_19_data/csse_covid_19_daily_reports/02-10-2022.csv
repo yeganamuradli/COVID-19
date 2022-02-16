@@ -4007,5 +4007,5 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Yemen,2022-02-11 04:21:09,15.552726999999999,48.516388,11604,2093,,,Yemen,38.90569452766797,18.036883833160978
 ,,,Zambia,2022-02-11 04:21:09,-13.133897,27.849332,308556,3935,,,Zambia,1678.3982729288516,1.2752952462437936
 ,,,Zimbabwe,2022-02-11 04:21:09,-19.015438,29.154857,231040,5373,,,Zimbabwe,1554.4717403240963,2.325571329639889
-,,Jersey,United Kingdom,2022-02-11 04:21:09,49.2138,-2.1358,0,0,0,0,"Jersey, United Kingdom",0.0,0.0
-,,Guernsey,United Kingdom,2022-02-11 04:21:09,49.448196,-2.58949,0,0,0,0,"Guernsey, United Kingdom",0.0,0.0
+,,Jersey,United Kingdom,2022-02-11 04:21:09,49.2138,-2.1358,33445,106,0,0,"Jersey, United Kingdom",0.0,0.0
+,,Guernsey,United Kingdom,2022-02-11 04:21:09,49.448196,-2.58949,12206,31,0,0,"Guernsey, United Kingdom",0.0,0.0
