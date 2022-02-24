@@ -33814,3 +33814,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 02/24/2022,time_series_covid19_confirmed_global.csv,US,02/21/2022,78548831,78548870,Correct US confirmed data
 02/24/2022,time_series_covid19_confirmed_global.csv,US,02/22/2022,78648651,78648693,Correct US confirmed data
 02/24/2022,time_series_covid19_confirmed_global.csv,US,02/23/2022,78733444,78733498,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_US.csv,"Covington, Alabama, US",01/25/2022,85607,8579,"Correct Covington, Alabama, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/25/2022,72347484,72270456,Correct US confirmed data
