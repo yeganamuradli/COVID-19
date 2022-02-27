@@ -63,18 +63,18 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-02-27,All,692726,124593
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-02-27,All,35067827,209748
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-02-27,All,1024333,3858
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-02-27,All,80779235,213387
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-02-27,All,80834877,213534
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-02-27,All,8486394,192298
-12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-02-27,All,11299923,221093
+12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-02-27,All,11310191,221294
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-02-27,All,2830568,205483
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2022-02-27,All,1722288,220808
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2022-02-27,All,970503,186146
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2022-02-27,All,98969,220401
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.682,-63.7443,"Nova Scotia, Canada",2022-02-27,All,2210140,226111
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2022-02-27,All,74352,191727
-12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-02-27,All,31616302,214903
+12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-02-27,All,31645374,215101
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2022-02-27,All,363678,229946
-12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-02-27,All,18686463,218870
+12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-02-27,All,18702765,219061
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-02-27,All,2329597,197145
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2022-02-27,All,90058,219236
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,2022-02-27,All,823895,17058
@@ -355,11 +355,11 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-02-27,All,2717852,41658
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-02-27,All,9148387,125741
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-02-27,All,2846972,150936
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-02-27,All,5190718,76049
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-02-27,All,5190721,76049
 422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-02-27,All,180899,42705
 422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-02-27,All,199225,43505
 422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-02-27,All,800919,184863
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-02-27,All,395336,73985
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-02-27,All,395339,73986
 422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-02-27,All,2038555,134113
 422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-02-27,All,386722,100751
 422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-02-27,All,603970,76359
