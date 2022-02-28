@@ -26,7 +26,7 @@ This list includes a complete list of all sources ever used in the data set, sin
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
   - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
-  - DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia
+  - DXY.cn. Pneumonia. 2020. https://ncov.dxy.cn/ncovh5/view/pneumonia?from=dxy&source=&link=&share=
   - US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
   - BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
   - WorldoMeters: https://www.worldometers.info/coronavirus/  
