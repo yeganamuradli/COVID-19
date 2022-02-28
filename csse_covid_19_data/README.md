@@ -549,6 +549,7 @@ International
 
 United States:
 * Arizona: To change to weekly reporting on March 2, 2022.
+* South Carolina: To change to weekly reporting of deaths on March 15, 2022. Availability of case data is at this time (Feb 28, 2022) unclear.
 
 
 ---
