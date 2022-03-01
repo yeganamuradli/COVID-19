@@ -31,16 +31,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2022-03-01,All,355098,246618
 3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2022-03-01,All,3156155,203431
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2022-03-01,All,1971565,66534
-36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-03-01,All,54043583,212271
-3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-03-01,All,1371266,320314
-3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-03-01,All,16890143,208057
-3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-03-01,All,522025,212550
-3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-03-01,All,10283337,201023
-3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-03-01,All,3710016,211216
-3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-03-01,All,1199640,224022
+36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-03-01,All,54147015,212677
+3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-03-01,All,1377002,321654
+3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-03-01,All,16917392,208393
+3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-03-01,All,523014,212953
+3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-03-01,All,10294100,201233
+3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-03-01,All,3717773,211658
+3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-03-01,All,1202059,224474
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-03-01,All,0,0
-3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-03-01,All,14293590,215592
-3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-03-01,All,5773566,219477
+3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-03-01,All,14318949,215975
+3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-03-01,All,5796726,220357
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-03-01,All,18019089,200069
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-03-01,All,12720225,125456
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-03-01,All,327515,83284
@@ -355,16 +355,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-03-01,All,2726917,41797
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-03-01,All,9148387,125741
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-03-01,All,2851659,151185
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-03-01,All,5202680,76224
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-03-01,All,181567,42863
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-03-01,All,200003,43675
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-03-01,All,802540,185237
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-03-01,All,396991,74295
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-03-01,All,2042556,134377
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-03-01,All,387635,100988
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-03-01,All,605407,76541
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-03-01,All,557337,94451
-422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-03-01,All,28644,
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-03-01,All,5203501,76236
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-03-01,All,181579,42866
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-03-01,All,200027,43680
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-03-01,All,802734,185282
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-03-01,All,397008,74298
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-03-01,All,2042815,134394
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-03-01,All,387689,101003
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-03-01,All,605535,76557
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-03-01,All,557471,94474
+422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-03-01,All,28643,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2022-03-01,All,857925,40047
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-03-01,All,1200630,23738
 434,LY,LBY,434,,,,Libya,26.3351,17.228331,Libya,2022-03-01,All,3198389,46547
@@ -552,7 +552,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-03-01,All,276278,140864
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-03-01,All,69215,203945
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-03-01,All,151040,68917
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-03-01,All,60957793,175096
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-03-01,All,60963413,175112
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-03-01,All,2473562,14772
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-03-01,All,8466632,96901
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-03-01,All,190758,193978
