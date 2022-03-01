@@ -222,7 +222,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
   - Hong Kong:
-    - The Government of The Hong Kong Special Administrative Region: https://www.chp.gov.hk/en/features/102465.html
+    - The Government of The Hong Kong Special Administrative Region Website: https://www.chp.gov.hk/en/features/102465.html
+    - The Government of The Hong Kong Special Administrative Region Dashboard: https://chp-dashboard.geodata.gov.hk/covid-19/en.html
   - Hungary:
     - Government of Hungary: https://koronavirus.gov.hu/
   - Iceland:
