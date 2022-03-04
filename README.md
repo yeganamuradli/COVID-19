@@ -187,7 +187,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Newfoundland and Labrador: https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/
     - Government of Northwest Territories: https://www.gov.nt.ca/covid-19/
     - Government of Ontario: https://covid-19.ontario.ca/data
-      - Ottowa Public Health: https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx 
+      - Ottawa Public Health: https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx 
       - Toronto Public Health: https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/
       - Region of Peel: https://peelregion.ca/coronavirus/case-status/ 
       - Region of Halton: https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus   
