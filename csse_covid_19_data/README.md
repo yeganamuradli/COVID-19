@@ -543,6 +543,7 @@ International
 * New Brunswick, Canada: Providing data Monday-Friday.
 * Newfoundland and Labrador, Canada: Providing data Monday, Wednesday, and Friday.
 * Northwest Territories, Canada: Providing data Monday-Friday.
+* Saskatechewan, Canada: Providing data weekly (Thursdays). 
 * Yukon, Canada: Providing data Monday-Friday.
 * Costa Rica: Updating data on Wednesdays and Saturdays only.
 * Denmark: Not updating case, death, or recovered data on the weekends.
