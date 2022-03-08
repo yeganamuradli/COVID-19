@@ -83,41 +83,41 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-03-08,All,3165486000,225353
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-03-08,All,13653888,182124
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-03-08,All,1146256,176525
-170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-03-08,All,78256058,153796
+170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-03-08,All,78298936,153880
 17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2022-03-08,All,119496,156022
-17002,CO,COL,170,,,Antioquia,Colombia,7.1986,-75.3412,"Antioquia, Colombia",2022-03-08,All,10841741,169214
-17003,CO,COL,170,,,Arauca,Colombia,7.0762,-70.7105,"Arauca, Colombia",2022-03-08,All,367029,139994
-17004,CO,COL,170,,,Atlantico,Colombia,10.6966,-74.8741,"Atlantico, Colombia",2022-03-08,All,4516401,178125
-17005,CO,COL,170,,,Bolivar,Colombia,8.6704,-74.03,"Bolivar, Colombia",2022-03-08,All,3372614,162919
-17006,CO,COL,170,,,Boyaca,Colombia,5.4545,-73.362,"Boyaca, Colombia",2022-03-08,All,2214123,181876
-17007,CO,COL,170,,,Caldas,Colombia,5.2983,-75.2479,"Caldas, Colombia",2022-03-08,All,1668012,167092
-17008,CO,COL,170,,,Capital District,Colombia,4.711,-74.0721,"Capital District, Colombia",2022-03-08,All,14076237,189896
-17009,CO,COL,170,,,Caqueta,Colombia,0.8699,-73.8419,"Caqueta, Colombia",2022-03-08,All,446786,111282
-17010,CO,COL,170,,,Casanare,Colombia,5.7589,-71.5724,"Casanare, Colombia",2022-03-08,All,659778,156901
-17011,CO,COL,170,,,Cauca,Colombia,2.705,-76.82600000000002,"Cauca, Colombia",2022-03-08,All,1414226,96567
-17012,CO,COL,170,,,Cesar,Colombia,9.3373,-73.6536,"Cesar, Colombia",2022-03-08,All,1668178,138948
-17013,CO,COL,170,,,Choco,Colombia,5.2528,-76.82600000000002,"Choco, Colombia",2022-03-08,All,418674,78282
-17014,CO,COL,170,,,Cordoba,Colombia,8.0493,-75.574,"Cordoba, Colombia",2022-03-08,All,2418745,135520
-17015,CO,COL,170,,,Cundinamarca,Colombia,5.026,-74.03,"Cundinamarca, Colombia",2022-03-08,All,4813676,164905
+17002,CO,COL,170,,,Antioquia,Colombia,7.1986,-75.3412,"Antioquia, Colombia",2022-03-08,All,10847597,169305
+17003,CO,COL,170,,,Arauca,Colombia,7.0762,-70.7105,"Arauca, Colombia",2022-03-08,All,367117,140028
+17004,CO,COL,170,,,Atlantico,Colombia,10.6966,-74.8741,"Atlantico, Colombia",2022-03-08,All,4519851,178261
+17005,CO,COL,170,,,Bolivar,Colombia,8.6704,-74.03,"Bolivar, Colombia",2022-03-08,All,3373575,162965
+17006,CO,COL,170,,,Boyaca,Colombia,5.4545,-73.362,"Boyaca, Colombia",2022-03-08,All,2214353,181895
+17007,CO,COL,170,,,Caldas,Colombia,5.2983,-75.2479,"Caldas, Colombia",2022-03-08,All,1668635,167155
+17008,CO,COL,170,,,Capital District,Colombia,4.711,-74.0721,"Capital District, Colombia",2022-03-08,All,14093012,190123
+17009,CO,COL,170,,,Caqueta,Colombia,0.8699,-73.8419,"Caqueta, Colombia",2022-03-08,All,447100,111360
+17010,CO,COL,170,,,Casanare,Colombia,5.7589,-71.5724,"Casanare, Colombia",2022-03-08,All,659913,156933
+17011,CO,COL,170,,,Cauca,Colombia,2.705,-76.82600000000002,"Cauca, Colombia",2022-03-08,All,1414557,96590
+17012,CO,COL,170,,,Cesar,Colombia,9.3373,-73.6536,"Cesar, Colombia",2022-03-08,All,1668288,138957
+17013,CO,COL,170,,,Choco,Colombia,5.2528,-76.82600000000002,"Choco, Colombia",2022-03-08,All,418706,78288
+17014,CO,COL,170,,,Cordoba,Colombia,8.0493,-75.574,"Cordoba, Colombia",2022-03-08,All,2419345,135554
+17015,CO,COL,170,,,Cundinamarca,Colombia,5.026,-74.03,"Cundinamarca, Colombia",2022-03-08,All,4815215,164957
 17016,CO,COL,170,,,Guainia,Colombia,2.5854,-68.5247,"Guainia, Colombia",2022-03-08,All,46906,97489
 17017,CO,COL,170,,,Guaviare,Colombia,1.0654,-73.2603,"Guaviare, Colombia",2022-03-08,All,105256,127171
-17018,CO,COL,170,,,Huila,Colombia,2.5359,-75.5277,"Huila, Colombia",2022-03-08,All,1629489,148083
-17019,CO,COL,170,,,La Guajira,Colombia,11.3548,-72.5205,"La Guajira, Colombia",2022-03-08,All,1105479,125542
-17020,CO,COL,170,,,Magdalena,Colombia,10.4113,-74.4057,"Magdalena, Colombia",2022-03-08,All,2005640,149479
-17021,CO,COL,170,,,Meta,Colombia,3.272,-73.0877,"Meta, Colombia",2022-03-08,All,1418305,136411
-17022,CO,COL,170,,,Narino,Colombia,1.2892,-77.3579,"Narino, Colombia",2022-03-08,All,2205692,135269
-17023,CO,COL,170,,,Norte de Santander,Colombia,7.9463,-72.8988,"Norte de Santander, Colombia",2022-03-08,All,2288749,153433
-17024,CO,COL,170,,,Putumayo,Colombia,0.436,-75.5277,"Putumayo, Colombia",2022-03-08,All,316007,90759
-17025,CO,COL,170,,,Quindio,Colombia,4.461,-75.6674,"Quindio, Colombia",2022-03-08,All,953009,176514
-17026,CO,COL,170,,,Risaralda,Colombia,5.3158,-75.9928,"Risaralda, Colombia",2022-03-08,All,1631335,172920
-17027,CO,COL,170,,,San Andres y Providencia,Colombia,12.5567,-81.7185,"San Andres y Providencia, Colombia",2022-03-08,All,120670,196915
-17028,CO,COL,170,,,Santander,Colombia,6.6437,-73.6536,"Santander, Colombia",2022-03-08,All,3593187,164460
-17029,CO,COL,170,,,Sucre,Colombia,8.814,-74.7233,"Sucre, Colombia",2022-03-08,All,1364024,150743
-17030,CO,COL,170,,,Tolima,Colombia,4.0925,-75.1545,"Tolima, Colombia",2022-03-08,All,2258840,169813
+17018,CO,COL,170,,,Huila,Colombia,2.5359,-75.5277,"Huila, Colombia",2022-03-08,All,1630207,148148
+17019,CO,COL,170,,,La Guajira,Colombia,11.3548,-72.5205,"La Guajira, Colombia",2022-03-08,All,1105980,125599
+17020,CO,COL,170,,,Magdalena,Colombia,10.4113,-74.4057,"Magdalena, Colombia",2022-03-08,All,2006414,149537
+17021,CO,COL,170,,,Meta,Colombia,3.272,-73.0877,"Meta, Colombia",2022-03-08,All,1418424,136423
+17022,CO,COL,170,,,Narino,Colombia,1.2892,-77.3579,"Narino, Colombia",2022-03-08,All,2206417,135313
+17023,CO,COL,170,,,Norte de Santander,Colombia,7.9463,-72.8988,"Norte de Santander, Colombia",2022-03-08,All,2289554,153487
+17024,CO,COL,170,,,Putumayo,Colombia,0.436,-75.5277,"Putumayo, Colombia",2022-03-08,All,316027,90764
+17025,CO,COL,170,,,Quindio,Colombia,4.461,-75.6674,"Quindio, Colombia",2022-03-08,All,953088,176529
+17026,CO,COL,170,,,Risaralda,Colombia,5.3158,-75.9928,"Risaralda, Colombia",2022-03-08,All,1631455,172933
+17027,CO,COL,170,,,San Andres y Providencia,Colombia,12.5567,-81.7185,"San Andres y Providencia, Colombia",2022-03-08,All,120677,196927
+17028,CO,COL,170,,,Santander,Colombia,6.6437,-73.6536,"Santander, Colombia",2022-03-08,All,3595041,164545
+17029,CO,COL,170,,,Sucre,Colombia,8.814,-74.7233,"Sucre, Colombia",2022-03-08,All,1364834,150833
+17030,CO,COL,170,,,Tolima,Colombia,4.0925,-75.1545,"Tolima, Colombia",2022-03-08,All,2259897,169893
 17034,CO,COL,170,,,Unknown,Colombia,,,"Unknown, Colombia",2022-03-08,All,1435709,
-17031,CO,COL,170,,,Valle del Cauca,Colombia,3.8009,-76.6413,"Valle del Cauca, Colombia",2022-03-08,All,6654241,148668
-17032,CO,COL,170,,,Vaupes,Colombia,0.8554,-70.812,"Vaupes, Colombia",2022-03-08,All,33387,81836
-17033,CO,COL,170,,,Vichada,Colombia,4.4234,-69.2878,"Vichada, Colombia",2022-03-08,All,74417,69027
+17031,CO,COL,170,,,Valle del Cauca,Colombia,3.8009,-76.6413,"Valle del Cauca, Colombia",2022-03-08,All,6658457,148762
+17032,CO,COL,170,,,Vaupes,Colombia,0.8554,-70.812,"Vaupes, Colombia",2022-03-08,All,33398,81863
+17033,CO,COL,170,,,Vichada,Colombia,4.4234,-69.2878,"Vichada, Colombia",2022-03-08,All,74435,69044
 174,KM,COM,174,,,,Comoros,-11.6455,43.3333,Comoros,2022-03-08,All,637961,73363
 178,CG,COG,178,,,,Congo (Brazzaville),-0.228,15.8277,Congo (Brazzaville),2022-03-08,All,812761,14729
 180,CD,COD,180,,,,Congo (Kinshasa),-4.0383,21.7587,Congo (Kinshasa),2022-03-08,All,850731,949
@@ -226,44 +226,44 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-03-08,All,11561083,116724
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-03-08,All,16143987,167115
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-03-08,All,803609,235489
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-03-08,All,1792026230,129856
-35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-03-08,All,659721,158192
-35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-03-08,All,86814736,161056
-35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-03-08,All,1641498,104523
-35604,IN,IND,356,,,Assam,India,26.357149,92.830441,"Assam, India",2022-03-08,All,43505722,122182
-35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2022-03-08,All,121214763,97127
-35606,IN,IND,356,,,Chandigarh,India,30.733839,76.76827800000002,"Chandigarh, India",2022-03-08,All,2042539,176313
-35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",2022-03-08,All,37166593,126261
-35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",2022-03-08,All,1363061,221375
-35609,IN,IND,356,,,Delhi,India,28.646519,77.10898,"Delhi, India",2022-03-08,All,31639064,169094
-35610,IN,IND,356,,,Goa,India,15.359682,74.057396,"Goa, India",2022-03-08,All,2650788,167110
-35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",2022-03-08,All,103637250,162256
-35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",2022-03-08,All,41305991,146450
-35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",2022-03-08,All,12432612,166836
-35614,IN,IND,356,,,Jammu and Kashmir,India,33.75943,76.612638,"Jammu and Kashmir, India",2022-03-08,All,21613171,158846
-35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",2022-03-08,All,37306347,96663
-35616,IN,IND,356,,,Karnataka,India,14.70518,76.166436,"Karnataka, India",2022-03-08,All,101532385,150278
-35617,IN,IND,356,,,Kerala,India,10.450898,76.405749,"Kerala, India",2022-03-08,All,52840816,148015
-35618,IN,IND,356,,,Ladakh,India,34.1526,77.5771,"Ladakh, India",2022-03-08,All,446375,162738
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-03-08,All,1792290489,129875
+35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-03-08,All,659724,158193
+35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-03-08,All,86853717,161128
+35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-03-08,All,1641570,104528
+35604,IN,IND,356,,,Assam,India,26.357149,92.830441,"Assam, India",2022-03-08,All,43507846,122188
+35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2022-03-08,All,121236783,97144
+35606,IN,IND,356,,,Chandigarh,India,30.733839,76.76827800000002,"Chandigarh, India",2022-03-08,All,2042563,176315
+35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",2022-03-08,All,37174234,126287
+35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",2022-03-08,All,1363101,221381
+35609,IN,IND,356,,,Delhi,India,28.646519,77.10898,"Delhi, India",2022-03-08,All,31641487,169107
+35610,IN,IND,356,,,Goa,India,15.359682,74.057396,"Goa, India",2022-03-08,All,2650973,167122
+35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",2022-03-08,All,103651770,162279
+35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",2022-03-08,All,41306916,146454
+35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",2022-03-08,All,12432691,166837
+35614,IN,IND,356,,,Jammu and Kashmir,India,33.75943,76.612638,"Jammu and Kashmir, India",2022-03-08,All,21614741,158858
+35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",2022-03-08,All,37315047,96686
+35616,IN,IND,356,,,Karnataka,India,14.70518,76.166436,"Karnataka, India",2022-03-08,All,101551322,150306
+35617,IN,IND,356,,,Kerala,India,10.450898,76.405749,"Kerala, India",2022-03-08,All,52842181,148019
+35618,IN,IND,356,,,Ladakh,India,34.1526,77.5771,"Ladakh, India",2022-03-08,All,446377,162739
 35637,IN,IND,356,,,Lakshadweep,India,13.6999972,72.18333259999999,"Lakshadweep, India",2022-03-08,All,119125,184893
-35619,IN,IND,356,,,Madhya Pradesh,India,23.541513,78.289633,"Madhya Pradesh, India",2022-03-08,All,114067217,133632
-35620,IN,IND,356,,,Maharashtra,India,19.449759,76.108221,"Maharashtra, India",2022-03-08,All,156922629,127429
-35621,IN,IND,356,,,Manipur,India,24.738975,93.882541,"Manipur, India",2022-03-08,All,2737818,88558
-35622,IN,IND,356,,,Meghalaya,India,25.536934,91.278882,"Meghalaya, India",2022-03-08,All,2369525,70381
-35623,IN,IND,356,,,Mizoram,India,23.309381,92.83822,"Mizoram, India",2022-03-08,All,1500588,121088
-35624,IN,IND,356,,,Nagaland,India,26.06702,94.470302,"Nagaland, India",2022-03-08,All,1556291,69177
-35625,IN,IND,356,,,Odisha,India,20.505428,84.418059,"Odisha, India",2022-03-08,All,61640383,132970
-35626,IN,IND,356,,,Puducherry,India,11.882658,78.86498,"Puducherry, India",2022-03-08,All,1599502,113155
-35627,IN,IND,356,,,Punjab,India,30.841465000000003,75.40879,"Punjab, India",2022-03-08,All,39690566,131681
-35628,IN,IND,356,,,Rajasthan,India,26.583423,73.847973,"Rajasthan, India",2022-03-08,All,99509700,122801
+35619,IN,IND,356,,,Madhya Pradesh,India,23.541513,78.289633,"Madhya Pradesh, India",2022-03-08,All,114078378,133645
+35620,IN,IND,356,,,Maharashtra,India,19.449759,76.108221,"Maharashtra, India",2022-03-08,All,156942337,127445
+35621,IN,IND,356,,,Manipur,India,24.738975,93.882541,"Manipur, India",2022-03-08,All,2737989,88563
+35622,IN,IND,356,,,Meghalaya,India,25.536934,91.278882,"Meghalaya, India",2022-03-08,All,2369851,70390
+35623,IN,IND,356,,,Mizoram,India,23.309381,92.83822,"Mizoram, India",2022-03-08,All,1500611,121090
+35624,IN,IND,356,,,Nagaland,India,26.06702,94.470302,"Nagaland, India",2022-03-08,All,1556337,69179
+35625,IN,IND,356,,,Odisha,India,20.505428,84.418059,"Odisha, India",2022-03-08,All,61650934,132993
+35626,IN,IND,356,,,Puducherry,India,11.882658,78.86498,"Puducherry, India",2022-03-08,All,1599515,113156
+35627,IN,IND,356,,,Punjab,India,30.841465000000003,75.40879,"Punjab, India",2022-03-08,All,39694087,131693
+35628,IN,IND,356,,,Rajasthan,India,26.583423,73.847973,"Rajasthan, India",2022-03-08,All,99516531,122810
 35629,IN,IND,356,,,Sikkim,India,27.571671,88.472712,"Sikkim, India",2022-03-08,All,1111015,160958
-35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-03-08,All,99582591,127930
-35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-03-08,All,58954919,149773
-35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-03-08,All,5119298,122771
+35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-03-08,All,99595269,127946
+35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-03-08,All,58959513,149785
+35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-03-08,All,5119347,122772
 35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-03-08,All,4748596,
-35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-03-08,All,292740643,123060
-35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-03-08,All,16945694,150616
-35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-03-08,All,131866166,132383
+35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-03-08,All,292803123,123087
+35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-03-08,All,16946435,150623
+35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-03-08,All,131877921,132395
 360,ID,IDN,360,,,,Indonesia,-0.7893,113.9213,Indonesia,2022-03-08,All,353698734,129311
 360001,ID,IDN,360,,,Aceh,Indonesia,4.6951,96.7494,"Aceh, Indonesia",2022-03-08,All,5951807,112833
 360002,ID,IDN,360,,,Bali,Indonesia,-8.3405,115.09200000000001,"Bali, Indonesia",2022-03-08,All,8182768,189529
@@ -355,15 +355,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-03-08,All,2782907,42655
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-03-08,All,9454997,129955
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-03-08,All,2859927,151623
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-03-08,All,5241457,76792
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-03-08,All,183186,43245
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-03-08,All,202568,44235
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-03-08,All,809044,186738
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-03-08,All,401031,75051
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-03-08,All,2053570,135101
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-03-08,All,390351,101696
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-03-08,All,611158,77268
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-03-08,All,561867,95219
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-03-08,All,5241980,76800
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-03-08,All,183295,43271
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-03-08,All,202590,44240
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-03-08,All,809124,186757
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-03-08,All,401084,75061
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-03-08,All,2053695,135109
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-03-08,All,390409,101711
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-03-08,All,611196,77273
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-03-08,All,561905,95225
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-03-08,All,28682,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2022-03-08,All,926760,43261
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-03-08,All,1200630,23738
@@ -467,7 +467,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-03-08,All,23288435,228391
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-03-08,All,5955033,206695
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-03-08,All,16722679,86926
-643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-03-08,All,161249817,110494
+643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-03-08,All,161265109,110505
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-03-08,All,,0
 64302,RU,RUS,643,,,Altai Krai,Russia,52.6932243,82.69314240000001,"Altai Krai, Russia",2022-03-08,All,,0
 64304,RU,RUS,643,,,Amur Oblast,Russia,52.8032368,128.437295,"Amur Oblast, Russia",2022-03-08,All,,0
@@ -537,7 +537,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 64374,RU,RUS,643,,,Tyva Republic,Russia,51.4017149,93.8582593,"Tyva Republic, Russia",2022-03-08,All,,0
 64375,RU,RUS,643,,,Udmurt Republic,Russia,57.1961165,52.69598320000001,"Udmurt Republic, Russia",2022-03-08,All,,0
 64376,RU,RUS,643,,,Ulyanovsk Oblast,Russia,54.1463177,47.2324921,"Ulyanovsk Oblast, Russia",2022-03-08,All,,0
-64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-03-08,All,161249817,
+64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-03-08,All,161265109,
 64377,RU,RUS,643,,,Vladimir Oblast,Russia,56.0503336,40.6561633,"Vladimir Oblast, Russia",2022-03-08,All,,0
 64378,RU,RUS,643,,,Volgograd Oblast,Russia,49.6048339,44.29035820000001,"Volgograd Oblast, Russia",2022-03-08,All,,0
 64379,RU,RUS,643,,,Vologda Oblast,Russia,60.0391461,43.1215213,"Vologda Oblast, Russia",2022-03-08,All,,0
@@ -552,7 +552,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-03-08,All,276278,140864
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-03-08,All,69215,203945
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-03-08,All,151040,68917
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-03-08,All,61540968,176771
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-03-08,All,61546580,176787
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-03-08,All,2493984,14894
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-03-08,All,8480196,97056
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-03-08,All,190758,193978
@@ -719,7 +719,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000055,US,USA,840,55,,Wisconsin,US,44.2685,-89.6165,"Wisconsin, US",2022-03-08,All,9899988,170031
 84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",2022-03-08,All,732703,126598
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2022-03-08,All,16672943,36450
-784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,2022-03-08,All,24258048,245268
+784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,2022-03-08,All,24267541,245364
 826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2022-03-08,All,141462698,208382
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2022-03-08,All,22377,149160
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2022-03-08,All,125085,200865
@@ -736,7 +736,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-03-08,All,12052337,220605
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000006,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-03-08,All,68176,176083
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-03-08,All,6885224,219372
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-03-08,All,7702314,221730
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-03-08,All,7703170,221755
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-03-08,All,42121870,125852
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-03-08,All,199464,68150
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-03-08,All,35352675,124323
