@@ -502,7 +502,7 @@ United States
 * Indiana: Providing data Monday-Friday.
 * Iowa: Providing data once weekly (day of the week TBC).
 * Kansas: Providing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
-* Kentucky: Providing data Monday-Friday.
+* Kentucky: Providing data once per week on Mondays (as of March 7, 2022). ~~Providing data Monday-Friday.~~
 * Louisiana: Providing data Monday-Friday.
 * Maine: Providing data Tuesday-Saturday.
 * Massachuetts: Providing data Monday-Friday.
@@ -518,7 +518,7 @@ United States
 * New York City: ~~Providing data Monday-Friday.~~ Providing data seven days a week (as of January 4, 2022).
 * North Carolina: Providing data Monday-Friday.
 * Ohio: Providing death data twice per week (normally Tuesdays and Sundays).
-* Oklahoma: Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.
+* Oklahoma: Providing data once per week on Thursdays (as of March 7, 2022). ~~Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.~~
 * Oregon: Providing data Monday-Friday (as of July 10, 2021).
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
 * South Carlina: Providing data Monday-Friday.
