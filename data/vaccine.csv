@@ -467,7 +467,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-03-13,All,23288435,228391
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-03-13,All,5955033,206695
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-03-13,All,16737321,87002
-643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-03-13,All,161480902,110653
+643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-03-13,All,161529453,110686
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-03-13,All,,0
 64302,RU,RUS,643,,,Altai Krai,Russia,52.6932243,82.69314240000001,"Altai Krai, Russia",2022-03-13,All,,0
 64304,RU,RUS,643,,,Amur Oblast,Russia,52.8032368,128.437295,"Amur Oblast, Russia",2022-03-13,All,,0
@@ -537,7 +537,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 64374,RU,RUS,643,,,Tyva Republic,Russia,51.4017149,93.8582593,"Tyva Republic, Russia",2022-03-13,All,,0
 64375,RU,RUS,643,,,Udmurt Republic,Russia,57.1961165,52.69598320000001,"Udmurt Republic, Russia",2022-03-13,All,,0
 64376,RU,RUS,643,,,Ulyanovsk Oblast,Russia,54.1463177,47.2324921,"Ulyanovsk Oblast, Russia",2022-03-13,All,,0
-64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-03-13,All,161480902,
+64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-03-13,All,161529453,
 64377,RU,RUS,643,,,Vladimir Oblast,Russia,56.0503336,40.6561633,"Vladimir Oblast, Russia",2022-03-13,All,,0
 64378,RU,RUS,643,,,Volgograd Oblast,Russia,49.6048339,44.29035820000001,"Volgograd Oblast, Russia",2022-03-13,All,,0
 64379,RU,RUS,643,,,Vologda Oblast,Russia,60.0391461,43.1215213,"Vologda Oblast, Russia",2022-03-13,All,,0
@@ -552,7 +552,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-03-13,All,276278,140864
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-03-13,All,69215,203945
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-03-13,All,151040,68917
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-03-13,All,61921170,177863
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-03-13,All,61923849,177871
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-03-13,All,2493984,14894
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-03-13,All,8488708,97154
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-03-13,All,190758,193978
