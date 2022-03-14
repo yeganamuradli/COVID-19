@@ -63,8 +63,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-03-14,All,719120,129340
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-03-14,All,36285390,217031
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-03-14,All,1273072,4795
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-03-14,All,81581032,215505
-12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-03-14,All,8526222,193200
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-03-14,All,81666740,215731
+12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-03-14,All,8528703,193256
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-03-14,All,11398503,223022
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-03-14,All,2847639,206722
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2022-03-14,All,1733241,222212
