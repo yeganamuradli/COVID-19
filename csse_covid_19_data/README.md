@@ -501,6 +501,7 @@ United States
 * Florida: Providing data once every two weeks (Fridays) (as of March 11, 2022). ~~Providing data once per week (Fridays).~~
 * Georgia: Providing data Monday-Friday.
 * Guam: Providing data Monday-Friday.
+* Hawaii: Providing data once per week (Wednesdays) (as of March 9, 2022).
 * Idaho: Providing data Monday-Friday. Providing data Monday-Saturday (as of November 6, 2021).~~Providing data daily (as of 9/11/2021).~~ ~~Providing data Monday-Friday.~~
 * Illinois: Providing data Monday-Friday.
 * Indiana: Providing data Monday-Friday.
