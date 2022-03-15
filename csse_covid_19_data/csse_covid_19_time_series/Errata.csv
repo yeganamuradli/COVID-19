@@ -34466,3 +34466,29 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 03/14/2022,time_series_covid19_deaths_global.csv,France,03/13/2022,136947,137025,Correct France deaths data
 03/15/2022,time_series_covid19_deaths_global.csv,Bahrain,02/21/2022,1498,1438,Correct Bahrain deaths data
 03/15/2022,time_series_covid19_deaths_global.csv,Singapore,03/08/2022,1084,1099,Correct Singapore deaths data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/17/2022,2,3,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/18/2022,2,3,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/19/2022,2,4,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/20/2022,2,4,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/21/2022,2,4,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/22/2022,2,4,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/23/2022,2,6,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/24/2022,2,6,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/25/2022,2,8,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/26/2022,2,8,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/27/2022,2,8,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/28/2022,2,10,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/01/2022,2,25,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/02/2022,2,53,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/03/2022,2,71,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/04/2022,2,84,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/05/2022,2,84,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/06/2022,2,84,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/07/2022,2,132,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/08/2022,2,141,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/09/2022,2,174,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/10/2022,2,206,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/11/2022,2,247,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/12/2022,2,247,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/13/2022,2,247,Correct New Zealand confirmed data
+03/15/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/14/2022,2,338,Correct New Zealand confirmed data
