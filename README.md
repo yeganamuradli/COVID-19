@@ -186,7 +186,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
     - Government of Manitoba: https://www.gov.mb.ca/covid19/updates/cases.html
     - Government of New Brunswick: https://experience.arcgis.com/experience/8eeb9a2052d641c996dba5de8f25a8aa
-    - Government of Newfoundland and Labrador: https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/
     - Government of Northwest Territories: https://www.gov.nt.ca/covid-19/
     - Government of Ontario: https://covid-19.ontario.ca/data
       - Ottawa Public Health: https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx 
