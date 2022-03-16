@@ -485,6 +485,7 @@ Date: Location | File | Change | Data source for change
 * February 28, 2022: Netherlands | Reporting in the Netherlands has been corrected from 07-17-2020 to 02-27-2022. This correction is to align our data with the [The Government of Netherlands](https://coronadashboard.government.nl/verantwoording#confirmed-cases).
 * March 03, 2022: Ontario, Canada | Reporting in Ontario, Canada has been updated to include Toronto Public Health, Ottawa Public Health, Region of Peel, and Region of Halton.
 * March 10, 2022: Tennessee, US | Corrected from 2020-03-12 to 2022-02-26
+* March 16, 2022: Tennessee, US | Corrected from 2020-03-12 to 2022-03-05
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
