@@ -273,6 +273,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - New Zealand:
     - Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases
+    - Government of Cook Islands: https://covid19.gov.ck/
   - Palau:
     - Ministry of Health & Human Services: http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
   - Paraguay:
