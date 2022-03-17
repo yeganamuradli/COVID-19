@@ -520,7 +520,7 @@ United States
 * Missouri: Providing data Monday-Friday (as of Feb 22, 2022).
 * Montana: Providing data Monday-Friday.
 * Nebraska: Providing state level data only Monday-Friday (in composite with CDC reporting).~~Providing data Monday-Friday (as of 9/25/2021).~~ ~~Providing data Wednedays only (as of 8/11/2021)~~
-* Nevada: Providing data Monday-Friday.
+* Nevada: Providing data once per week (Wednesdays) (as of March 16, 2022). ~~Providing data Monday-Friday.~~
 * New Hampshire: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
 * New York City: ~~Providing data Monday-Friday.~~ Providing data seven days a week (as of January 4, 2022).
@@ -529,7 +529,7 @@ United States
 * Oklahoma: Providing data once per week on Thursdays (as of March 7, 2022). ~~Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.~~
 * Oregon: Providing data Monday-Friday (as of July 10, 2021).
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
-* South Carlina: Providing data Monday-Friday.
+* South Carlina: Providing data weekly (Tuesdays) (as of March 15, 2022). ~~Providing data Monday-Friday.~~
 * South Dakota: Providing data Monday-Friday (as of August 16, 2021). ~~Providing data Wednesdays only.~~ Saturday and Sunday data will be reported on Tuesdays.
 * Tennessee: Providing data Monday-Friday.
 * Utah: Providing data Monday-Friday.
@@ -538,7 +538,7 @@ United States
 * Washington: Did not update October 10-12 due to data entry issue. ~~As of December 20, only updating Monday-Saturday. As of August 1, only updating Monday-Friday.~~ As of Janaury 25, 2022, only updating Monday, Wednesday, and Friday.
 * West Virginia: Providing data Monday-Friday (as of March 14th, 2022). ~~Providing data daily.~~ ~~Providing data Monday-Friday.~~
 * Wisconsin: Providing data Monday-Friday.
-* Wyoming: Providing data Monday-Friday.
+* Wyoming: Providing data twice a week (Tuesdays and Fridays) (as of March 11, 2022). ~~Providing data Monday-Friday.~~
 
 
 
@@ -562,7 +562,7 @@ International
 * Mexico: Beginning November 10, recoveries are available at the national level only and will be grouped in the "Unassigned, Mexico" entry.
 * Nicaragua: Releasing case, death, and recovered data once per week.
 * NSW, Australia: NSW Health has suspended its survey of the recovery status of patients with COVID-19 to focus on the recent increase in community transmission on July 31, 2020. Therefore, recovery statistics are no longer presented. ([Source](https://www.nsw.gov.au/covid-19/find-facts-about-covid-19), [Issue #3694](https://github.com/CSSEGISandData/COVID-19/issues/3694))
-* Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
+* Spain: Providing data twice a week (Tuesdays and Fridays) (as of March 15, 2022). ~~Not updating case or death data on the weekends (and is not currently providing recoveries at any time)~~
 * Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
 * UK: Providing data Monday-Friday (as of Feb 26, 2022). Daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC)). Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
 * Wales, UK: Providing data Monday-Saturday.
@@ -570,8 +570,6 @@ International
 ## Upcoming Irregular Update Schedules
 
 United States:
-* Arizona: To change to weekly reporting on March 2, 2022.
-* South Carolina: To change to weekly reporting of deaths on March 15, 2022. Availability of case data is at this time (Feb 28, 2022) unclear.
 
 
 ---
