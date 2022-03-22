@@ -63,7 +63,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-03-22,All,724784,130359
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-03-22,All,36457313,218059
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-03-22,All,1273072,4795
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-03-22,All,81867127,216261
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-03-22,All,81872408,216274
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-03-22,All,8550867,193758
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-03-22,All,11434211,223721
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-03-22,All,2853637,207158
@@ -72,7 +72,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2022-03-22,All,99769,222182
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.682,-63.7443,"Nova Scotia, Canada",2022-03-22,All,2217196,226833
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2022-03-22,All,75945,195835
-12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-03-22,All,31969794,217306
+12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-03-22,All,31975075,217342
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2022-03-22,All,371154,234672
 12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-03-22,All,18878943,221125
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-03-22,All,2329597,197145
@@ -355,11 +355,11 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-03-22,All,2856035,43776
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-03-22,All,9859123,135510
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-03-22,All,2869287,152119
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-03-22,All,5285323,77435
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-03-22,All,5285326,77435
 422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-03-22,All,185364,43759
 422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-03-22,All,205966,44977
 422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-03-22,All,815718,188279
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-03-22,All,406706,76113
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-03-22,All,406709,76113
 422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-03-22,All,2065411,135880
 422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-03-22,All,394041,102657
 422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-03-22,All,615948,77874
@@ -699,7 +699,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",2022-03-22,All,38198524,196357
 84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",2022-03-22,All,16264909,155079
 84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.784,"North Dakota, US",2022-03-22,All,1253050,164428
-580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2022-03-22,All,109275,198162
+580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2022-03-22,All,109283,198177
 84000039,US,USA,840,39,,Ohio,US,40.3888,-82.7649,"Ohio, US",2022-03-22,All,17361040,148523
 84000040,US,USA,840,40,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",2022-03-22,All,5766253,145723
 84000041,US,USA,840,41,,Oregon,US,44.572,-122.0709,"Oregon, US",2022-03-22,All,7514301,178159
