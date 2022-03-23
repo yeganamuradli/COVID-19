@@ -226,9 +226,9 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-03-23,All,12001264,121168
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-03-23,All,16171785,167403
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-03-23,All,805039,235908
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-03-23,All,1817991420,131738
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-03-23,All,1818001820,131738
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-03-23,All,663590,159120
-35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-03-23,All,89957630,166886
+35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-03-23,All,89958927,166889
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-03-23,All,1652723,105238
 35604,IN,IND,356,,,Assam,India,26.357149,92.830441,"Assam, India",2022-03-23,All,43815255,123052
 35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2022-03-23,All,123031938,98583
@@ -736,7 +736,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-03-23,All,12104193,221554
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000006,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-03-23,All,68464,176827
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-03-23,All,6916175,220358
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-03-23,All,7957052,229063
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-03-23,All,7957053,229063
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-03-23,All,43564564,130163
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-03-23,All,199464,68150
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-03-23,All,35352675,124323
