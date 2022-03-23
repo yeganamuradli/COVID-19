@@ -42,23 +42,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-03-23,All,14745376,222407
 3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-03-23,All,6092037,231583
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-03-23,All,18126693,201264
-31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-03-23,All,13368489,131849
+31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-03-23,All,13368581,131850
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-03-23,All,332549,84564
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2022-03-23,All,3417600,200848
 52,BB,BRB,52,,,,Barbados,13.1939,-59.5432,Barbados,2022-03-23,All,357585,124433
 112,BY,BLR,112,,,,Belarus,53.7098,27.9534,Belarus,2022-03-23,All,11046924,116907
-56,BE,BEL,56,,,,Belgium,50.8333,4.469936,Belgium,2022-03-23,All,25199371,217430
+56,BE,BEL,56,,,,Belgium,50.8333,4.469936,Belgium,2022-03-23,All,25204526,217475
 84,BZ,BLZ,84,,,,Belize,17.1899,-88.4976,Belize,2022-03-23,All,453359,114017
 204,BJ,BEN,204,,,,Benin,9.3077,2.3158,Benin,2022-03-23,All,3060435,25244
 64,BT,BTN,64,,,,Bhutan,27.5142,90.4336,Bhutan,2022-03-23,All,1435774,186074
 68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2022-03-23,All,12813437,109769
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,2022-03-23,All,1924950,58672
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2022-03-23,All,1376754,58544
-76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2022-03-23,All,408348030,192110
+76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2022-03-23,All,408961974,192398
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2022-03-23,All,979285,223845
 100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2022-03-23,All,4338642,62440
 854,BF,BFA,854,,,,Burkina Faso,12.2383,-1.5616,Burkina Faso,2022-03-23,All,1259250,6024
-104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2022-03-23,All,48265243,88706
+104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2022-03-23,All,48708905,89522
 108,BI,BDI,108,,,,Burundi,-3.3731,29.9189,Burundi,2022-03-23,All,12166,102
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-03-23,All,724784,130359
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-03-23,All,36567354,218717
@@ -80,9 +80,9 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,2022-03-23,All,968802,20058
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-03-23,All,418052,2545
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2022-03-23,All,50165750,262425
-156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-03-23,All,3226334000,229685
+156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-03-23,All,3234601000,230273
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-03-23,All,14660374,195550
-446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-03-23,All,1210824,186469
+446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-03-23,All,1214641,187057
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-03-23,All,79783514,156798
 17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2022-03-23,All,124569,162646
 17002,CO,COL,170,,,Antioquia,Colombia,7.1986,-75.3412,"Antioquia, Colombia",2022-03-23,All,11075297,172859
@@ -123,8 +123,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 180,CD,COD,180,,,,Congo (Kinshasa),-4.0383,21.7587,Congo (Kinshasa),2022-03-23,All,850731,949
 188,CR,CRI,188,,,,Costa Rica,9.7489,-83.7534,Costa Rica,2022-03-23,All,10018261,196663
 384,CI,CIV,384,,,,Cote d'Ivoire,7.54,-5.5471,Cote d'Ivoire,2022-03-23,All,10154915,38497
-191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,2022-03-23,All,5216368,127065
-192,CU,CUB,192,,,,Cuba,21.521757,-77.78116700000002,Cuba,2022-03-23,All,35248586,311201
+191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,2022-03-23,All,5217248,127086
+192,CU,CUB,192,,,,Cuba,21.521757,-77.78116700000002,Cuba,2022-03-23,All,35253792,311247
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2022-03-23,All,1773485,146889
 203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-03-23,All,17467515,163110
 20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2022-03-23,All,1055902,165642
@@ -152,23 +152,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802498,Egypt,2022-03-23,All,67724897,66179
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2022-03-23,All,10314830,159027
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2022-03-23,All,467504,33322
-233,EE,EST,233,,,,Estonia,58.5953,25.0136,Estonia,2022-03-23,All,1924494,145076
-23301,EE,EST,233,,,Harju,Estonia,59.3334,25.2467,"Harju, Estonia",2022-03-23,All,869610,143730
-23302,EE,EST,233,,,Hiiu,Estonia,58.924,22.5919,"Hiiu, Estonia",2022-03-23,All,17883,191980
-23303,EE,EST,233,,,Ida-Viru,Estonia,59.2593,27.4137,"Ida-Viru, Estonia",2022-03-23,All,159606,118879
-23304,EE,EST,233,,,Jarva,Estonia,58.8867,25.5001,"Jarva, Estonia",2022-03-23,All,45942,152256
+233,EE,EST,233,,,,Estonia,58.5953,25.0136,Estonia,2022-03-23,All,1925029,145116
+23301,EE,EST,233,,,Harju,Estonia,59.3334,25.2467,"Harju, Estonia",2022-03-23,All,869881,143775
+23302,EE,EST,233,,,Hiiu,Estonia,58.924,22.5919,"Hiiu, Estonia",2022-03-23,All,17890,192055
+23303,EE,EST,233,,,Ida-Viru,Estonia,59.2593,27.4137,"Ida-Viru, Estonia",2022-03-23,All,159665,118923
+23304,EE,EST,233,,,Jarva,Estonia,58.8867,25.5001,"Jarva, Estonia",2022-03-23,All,45944,152263
 23305,EE,EST,233,,,Jogeva,Estonia,58.7506,26.3605,"Jogeva, Estonia",2022-03-23,All,45386,159573
-23306,EE,EST,233,,,Laane,Estonia,58.9723,23.8741,"Laane, Estonia",2022-03-23,All,31981,156432
-23307,EE,EST,233,,,Laane-Viru,Estonia,59.3019,26.328000000000003,"Laane-Viru, Estonia",2022-03-23,All,88444,150256
-23308,EE,EST,233,,,Parnu,Estonia,58.5262,24.401999999999997,"Parnu, Estonia",2022-03-23,All,118613,137626
-23309,EE,EST,233,,,Polva,Estonia,58.1161,27.2066,"Polva, Estonia",2022-03-23,All,36256,147101
-23310,EE,EST,233,,,Rapla,Estonia,58.8493,24.7347,"Rapla, Estonia",2022-03-23,All,48968,147130
-23311,EE,EST,233,,,Saare,Estonia,58.485,22.6136,"Saare, Estonia",2022-03-23,All,51133,154559
-23312,EE,EST,233,,,Tartu,Estonia,58.4057,26.8016,"Tartu, Estonia",2022-03-23,All,255043,166350
+23306,EE,EST,233,,,Laane,Estonia,58.9723,23.8741,"Laane, Estonia",2022-03-23,All,31985,156451
+23307,EE,EST,233,,,Laane-Viru,Estonia,59.3019,26.328000000000003,"Laane-Viru, Estonia",2022-03-23,All,88456,150276
+23308,EE,EST,233,,,Parnu,Estonia,58.5262,24.401999999999997,"Parnu, Estonia",2022-03-23,All,118653,137672
+23309,EE,EST,233,,,Polva,Estonia,58.1161,27.2066,"Polva, Estonia",2022-03-23,All,36260,147117
+23310,EE,EST,233,,,Rapla,Estonia,58.8493,24.7347,"Rapla, Estonia",2022-03-23,All,48990,147196
+23311,EE,EST,233,,,Saare,Estonia,58.485,22.6136,"Saare, Estonia",2022-03-23,All,51142,154586
+23312,EE,EST,233,,,Tartu,Estonia,58.4057,26.8016,"Tartu, Estonia",2022-03-23,All,255098,166385
 23316,EE,EST,233,,,Unknown,Estonia,,,"Unknown, Estonia",2022-03-23,All,36319,0
-23313,EE,EST,233,,,Valga,Estonia,57.9103,26.1602,"Valga, Estonia",2022-03-23,All,38025,134821
-23314,EE,EST,233,,,Viljandi,Estonia,58.2822,25.5752,"Viljandi, Estonia",2022-03-23,All,70368,152440
-23315,EE,EST,233,,,Voru,Estonia,57.7377,27.1399,"Voru, Estonia",2022-03-23,All,47236,133378
+23313,EE,EST,233,,,Valga,Estonia,57.9103,26.1602,"Valga, Estonia",2022-03-23,All,38037,134863
+23314,EE,EST,233,,,Viljandi,Estonia,58.2822,25.5752,"Viljandi, Estonia",2022-03-23,All,70402,152514
+23315,EE,EST,233,,,Voru,Estonia,57.7377,27.1399,"Voru, Estonia",2022-03-23,All,47240,133389
 748,SZ,SWZ,748,,,,Eswatini,-26.5225,31.4659,Eswatini,2022-03-23,All,506539,43660
 231,ET,ETH,231,,,,Ethiopia,9.145,40.4897,Ethiopia,2022-03-23,All,29168929,25372
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,2022-03-23,All,1287727,143648
@@ -196,7 +196,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 876,WF,WLF,876,,,Wallis and Futuna,France,-14.2938,-178.1165,"Wallis and Futuna, France",2022-03-23,All,15824,103499
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2022-03-23,All,545642,24515
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2022-03-23,All,363353,15035
-268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2022-03-23,All,2844372,71302
+268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2022-03-23,All,2846431,71353
 276,DE,DEU,276,,,,Germany,51.165691,10.451526,Germany,2022-03-23,All,171600903,204813
 27601,DE,DEU,276,,,Baden-Wurttemberg,Germany,48.6616,9.3501,"Baden-Wurttemberg, Germany",2022-03-23,All,22250450,201006
 27602,DE,DEU,276,,,Bayern,Germany,48.7904,11.4979,"Bayern, Germany",2022-03-23,All,26358850,201570
@@ -224,7 +224,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 328,GY,GUY,328,,,,Guyana,4.860416000000002,-58.93018000000001,Guyana,2022-03-23,All,886069,112651
 332,HT,HTI,332,,,,Haiti,18.9712,-72.2852,Haiti,2022-03-23,All,243969,2139
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-03-23,All,12001264,121168
-348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-03-23,All,16171785,167403
+348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-03-23,All,16429829,170074
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-03-23,All,805039,235908
 356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-03-23,All,1820574288,131925
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-03-23,All,664853,159423
@@ -264,45 +264,45 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-03-23,All,297066509,124879
 35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-03-23,All,17079014,151801
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-03-23,All,133443201,133966
-360,ID,IDN,360,,,,Indonesia,-0.7893,113.9213,Indonesia,2022-03-23,All,369439976,135066
-360001,ID,IDN,360,,,Aceh,Indonesia,4.6951,96.7494,"Aceh, Indonesia",2022-03-23,All,6559095,124346
-360002,ID,IDN,360,,,Bali,Indonesia,-8.3405,115.09200000000001,"Bali, Indonesia",2022-03-23,All,8850174,204988
-360003,ID,IDN,360,,,Bangka Belitung Islands,Indonesia,-2.7411,106.4406,"Bangka Belitung Islands, Indonesia",2022-03-23,All,2067826,142052
-360004,ID,IDN,360,,,Banten,Indonesia,-2.7411,106.4406,"Banten, Indonesia",2022-03-23,All,15837757,133039
-360005,ID,IDN,360,,,Bengkulu,Indonesia,-3.7928,102.2608,"Bengkulu, Indonesia",2022-03-23,All,2543388,126494
-360006,ID,IDN,360,,,Central Java,Indonesia,-7.151,110.1403,"Central Java, Indonesia",2022-03-23,All,51815160,141897
-360007,ID,IDN,360,,,Central Kalimantan,Indonesia,-1.6815,113.3824,"Central Kalimantan, Indonesia",2022-03-23,All,3663743,137220
-360008,ID,IDN,360,,,Central Sulawesi,Indonesia,-1.43,121.4456,"Central Sulawesi, Indonesia",2022-03-23,All,3012406,100893
-360009,ID,IDN,360,,,East Java,Indonesia,-7.5361,112.2384,"East Java, Indonesia",2022-03-23,All,55295148,135974
-360010,ID,IDN,360,,,East Kalimantan,Indonesia,0.5387,116.4194,"East Kalimantan, Indonesia",2022-03-23,All,5511290,146341
-360011,ID,IDN,360,,,East Nusa Tenggara,Indonesia,-8.6574,121.0794,"East Nusa Tenggara, Indonesia",2022-03-23,All,5852924,109902
-360012,ID,IDN,360,,,Gorontalo,Indonesia,0.5435,123.0568,"Gorontalo, Indonesia",2022-03-23,All,1474777,125868
-360014,ID,IDN,360,,,Jambi,Indonesia,-1.6101,103.6131,"Jambi, Indonesia",2022-03-23,All,4658715,131296
-360015,ID,IDN,360,,,Lampung,Indonesia,-4.5586,105.4068,"Lampung, Indonesia",2022-03-23,All,10652668,118259
-360016,ID,IDN,360,,,Maluku,Indonesia,-3.2385,130.1453,"Maluku, Indonesia",2022-03-23,All,1632386,88288
-360017,ID,IDN,360,,,North Kalimantan,Indonesia,3.0731,116.0414,"North Kalimantan, Indonesia",2022-03-23,All,971593,138440
-360018,ID,IDN,360,,,North Maluku,Indonesia,1.571,127.8088,"North Maluku, Indonesia",2022-03-23,All,1255357,97850
-360019,ID,IDN,360,,,North Sulawesi,Indonesia,0.6247,123.975,"North Sulawesi, Indonesia",2022-03-23,All,3265973,124564
-360020,ID,IDN,360,,,North Sumatra,Indonesia,2.1154,99.5451,"North Sumatra, Indonesia",2022-03-23,All,20471175,138324
+360,ID,IDN,360,,,,Indonesia,-0.7893,113.9213,Indonesia,2022-03-23,All,369679413,135154
+360001,ID,IDN,360,,,Aceh,Indonesia,4.6951,96.7494,"Aceh, Indonesia",2022-03-23,All,6571963,124590
+360002,ID,IDN,360,,,Bali,Indonesia,-8.3405,115.09200000000001,"Bali, Indonesia",2022-03-23,All,8861090,205241
+360003,ID,IDN,360,,,Bangka Belitung Islands,Indonesia,-2.7411,106.4406,"Bangka Belitung Islands, Indonesia",2022-03-23,All,2068464,142096
+360004,ID,IDN,360,,,Banten,Indonesia,-2.7411,106.4406,"Banten, Indonesia",2022-03-23,All,15852024,133159
+360005,ID,IDN,360,,,Bengkulu,Indonesia,-3.7928,102.2608,"Bengkulu, Indonesia",2022-03-23,All,2544372,126543
+360006,ID,IDN,360,,,Central Java,Indonesia,-7.151,110.1403,"Central Java, Indonesia",2022-03-23,All,51837978,141959
+360007,ID,IDN,360,,,Central Kalimantan,Indonesia,-1.6815,113.3824,"Central Kalimantan, Indonesia",2022-03-23,All,3667859,137374
+360008,ID,IDN,360,,,Central Sulawesi,Indonesia,-1.43,121.4456,"Central Sulawesi, Indonesia",2022-03-23,All,3013418,100927
+360009,ID,IDN,360,,,East Java,Indonesia,-7.5361,112.2384,"East Java, Indonesia",2022-03-23,All,55320696,136037
+360010,ID,IDN,360,,,East Kalimantan,Indonesia,0.5387,116.4194,"East Kalimantan, Indonesia",2022-03-23,All,5513765,146407
+360011,ID,IDN,360,,,East Nusa Tenggara,Indonesia,-8.6574,121.0794,"East Nusa Tenggara, Indonesia",2022-03-23,All,5864931,110127
+360012,ID,IDN,360,,,Gorontalo,Indonesia,0.5435,123.0568,"Gorontalo, Indonesia",2022-03-23,All,1475326,125915
+360014,ID,IDN,360,,,Jambi,Indonesia,-1.6101,103.6131,"Jambi, Indonesia",2022-03-23,All,4661698,131381
+360015,ID,IDN,360,,,Lampung,Indonesia,-4.5586,105.4068,"Lampung, Indonesia",2022-03-23,All,10656381,118301
+360016,ID,IDN,360,,,Maluku,Indonesia,-3.2385,130.1453,"Maluku, Indonesia",2022-03-23,All,1633255,88335
+360017,ID,IDN,360,,,North Kalimantan,Indonesia,3.0731,116.0414,"North Kalimantan, Indonesia",2022-03-23,All,971809,138471
+360018,ID,IDN,360,,,North Maluku,Indonesia,1.571,127.8088,"North Maluku, Indonesia",2022-03-23,All,1255582,97867
+360019,ID,IDN,360,,,North Sulawesi,Indonesia,0.6247,123.975,"North Sulawesi, Indonesia",2022-03-23,All,3267363,124617
+360020,ID,IDN,360,,,North Sumatra,Indonesia,2.1154,99.5451,"North Sumatra, Indonesia",2022-03-23,All,20485170,138419
 360021,ID,IDN,360,,,Papua,Indonesia,-4.2699,138.0804,"Papua, Indonesia",2022-03-23,All,1693352,39346
-360022,ID,IDN,360,,,Riau,Indonesia,0.2933,101.7068,"Riau, Indonesia",2022-03-23,All,8556273,133815
-360023,ID,IDN,360,,,Riau Islands,Indonesia,3.9457,108.1429,"Riau Islands, Indonesia",2022-03-23,All,3499113,169484
-360025,ID,IDN,360,,,South Kalimantan,Indonesia,-3.0926,115.2838,"South Kalimantan, Indonesia",2022-03-23,All,5079015,124681
-360026,ID,IDN,360,,,South Sulawesi,Indonesia,-3.6688,119.9741,"South Sulawesi, Indonesia",2022-03-23,All,10653095,117408
-360027,ID,IDN,360,,,South Sumatra,Indonesia,-3.3194,103.9144,"South Sumatra, Indonesia",2022-03-23,All,10691791,126269
-360024,ID,IDN,360,,,Southeast Sulawesi,Indonesia,-1.8479,120.5279,"Southeast Sulawesi, Indonesia",2022-03-23,All,2941777,112073
-360013,ID,IDN,360,,,Special Capital Region of Jakarta,Indonesia,-6.2088,106.8456,"Special Capital Region of Jakarta, Indonesia",2022-03-23,All,25029914,236978
-360034,ID,IDN,360,,,Special Region of Yogyakarta,Indonesia,-7.8754,110.4262,"Special Region of Yogyakarta, Indonesia",2022-03-23,All,6606046,180064
+360022,ID,IDN,360,,,Riau,Indonesia,0.2933,101.7068,"Riau, Indonesia",2022-03-23,All,8562466,133912
+360023,ID,IDN,360,,,Riau Islands,Indonesia,3.9457,108.1429,"Riau Islands, Indonesia",2022-03-23,All,3499788,169517
+360025,ID,IDN,360,,,South Kalimantan,Indonesia,-3.0926,115.2838,"South Kalimantan, Indonesia",2022-03-23,All,5085997,124853
+360026,ID,IDN,360,,,South Sulawesi,Indonesia,-3.6688,119.9741,"South Sulawesi, Indonesia",2022-03-23,All,10659715,117481
+360027,ID,IDN,360,,,South Sumatra,Indonesia,-3.3194,103.9144,"South Sumatra, Indonesia",2022-03-23,All,10698160,126344
+360024,ID,IDN,360,,,Southeast Sulawesi,Indonesia,-1.8479,120.5279,"Southeast Sulawesi, Indonesia",2022-03-23,All,2945376,112210
+360013,ID,IDN,360,,,Special Capital Region of Jakarta,Indonesia,-6.2088,106.8456,"Special Capital Region of Jakarta, Indonesia",2022-03-23,All,25034858,237025
+360034,ID,IDN,360,,,Special Region of Yogyakarta,Indonesia,-7.8754,110.4262,"Special Region of Yogyakarta, Indonesia",2022-03-23,All,6609359,180154
 360035,ID,IDN,360,,,Unknown,Indonesia,,,"Unknown, Indonesia",2022-03-23,All,103,
-360028,ID,IDN,360,,,West Java,Indonesia,-7.0909,107.6689,"West Java, Indonesia",2022-03-23,All,66964771,138717
-360029,ID,IDN,360,,,West Kalimantan,Indonesia,-0.2788,111.4753,"West Kalimantan, Indonesia",2022-03-23,All,5989949,110630
-360030,ID,IDN,360,,,West Nusa Tenggara,Indonesia,-8.6529,117.3616,"West Nusa Tenggara, Indonesia",2022-03-23,All,7092059,133307
-360031,ID,IDN,360,,,West Papua,Indonesia,-1.3361,133.1747,"West Papua, Indonesia",2022-03-23,All,847661,74745
-360032,ID,IDN,360,,,West Sulawesi,Indonesia,-2.8441,119.2321,"West Sulawesi, Indonesia",2022-03-23,All,1405513,99033
-360033,ID,IDN,360,,,West Sumatra,Indonesia,-0.7399,100.8,"West Sumatra, Indonesia",2022-03-23,All,6982670,126166
-364,IR,IRN,364,,,,Iran,32.427908,53.68804599999999,Iran,2022-03-23,All,146046396,173879
+360028,ID,IDN,360,,,West Java,Indonesia,-7.0909,107.6689,"West Java, Indonesia",2022-03-23,All,67014228,138820
+360029,ID,IDN,360,,,West Kalimantan,Indonesia,-0.2788,111.4753,"West Kalimantan, Indonesia",2022-03-23,All,5993553,110696
+360030,ID,IDN,360,,,West Nusa Tenggara,Indonesia,-8.6529,117.3616,"West Nusa Tenggara, Indonesia",2022-03-23,All,7096145,133383
+360031,ID,IDN,360,,,West Papua,Indonesia,-1.3361,133.1747,"West Papua, Indonesia",2022-03-23,All,848123,74785
+360032,ID,IDN,360,,,West Sulawesi,Indonesia,-2.8441,119.2321,"West Sulawesi, Indonesia",2022-03-23,All,1406427,99097
+360033,ID,IDN,360,,,West Sumatra,Indonesia,-0.7399,100.8,"West Sumatra, Indonesia",2022-03-23,All,6992348,126341
+364,IR,IRN,364,,,,Iran,32.427908,53.68804599999999,Iran,2022-03-23,All,146109352,173954
 368,IQ,IRQ,368,,,,Iraq,33.223191,43.679291,Iraq,2022-03-23,All,17372433,43190
-372,IE,IRL,372,,,,Ireland,53.1424,-7.6921,Ireland,2022-03-23,All,10706034,216818
+372,IE,IRL,372,,,,Ireland,53.1424,-7.6921,Ireland,2022-03-23,All,10712132,216941
 376,IL,ISR,376,,,,Israel,31.046051,34.851612,Israel,2022-03-23,All,18002410,207987
 380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,2022-03-23,All,135552314,224194
 38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",2022-03-23,All,2940623,224204
@@ -326,8 +326,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 38010,IT,ITA,380,,,Umbria,Italy,43.10675841,12.38824698,"Umbria, Italy",2022-03-23,All,2017834,228775
 38002,IT,ITA,380,,,Valle d'Aosta,Italy,45.73750286,7.320149366,"Valle d'Aosta, Italy",2022-03-23,All,274474,218415
 38005,IT,ITA,380,,,Veneto,Italy,45.43490485,12.33845213,"Veneto, Italy",2022-03-23,All,10933048,222857
-388,JM,JAM,388,,,,Jamaica,18.1096,-77.2975,Jamaica,2022-03-23,All,1386697,46829
-392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2022-03-23,All,247132594,195398
+388,JM,JAM,388,,,,Jamaica,18.1096,-77.2975,Jamaica,2022-03-23,All,1387646,46861
+392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2022-03-23,All,248489469,196470
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,2022-03-23,All,9727982,95343
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,2022-03-23,All,18569666,98897
 39801,KZ,KAZ,398,,,Aktobe,Kazakhstan,50.2839,57.167,"Aktobe, Kazakhstan",2022-03-23,All,775345,97278
@@ -350,20 +350,20 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2022-03-23,All,17327143,32223
 296,KI,KIR,296,,,,Kiribati,-3.3704,-168.734,Kiribati,2022-03-23,All,136758,116284
 410,KR,KOR,410,,,,"Korea, South",35.90775700000001,127.766922,"Korea, South",2022-03-23,All,121846902,237661
-383,XK,XKS,383,,,,Kosovo,42.602636,20.902977,Kosovo,2022-03-23,All,1820094,100537
+383,XK,XKS,383,,,,Kosovo,42.602636,20.902977,Kosovo,2022-03-23,All,1820441,100556
 414,KW,KWT,414,,,,Kuwait,29.31166,47.481766,Kuwait,2022-03-23,All,7752791,181540
-417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-03-23,All,2861172,43854
-418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-03-23,All,9859123,135510
+417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-03-23,All,2868392,43965
+418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-03-23,All,9950722,136769
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-03-23,All,2870346,152175
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-03-23,All,5290431,77510
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-03-23,All,185672,43832
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-03-23,All,206531,45100
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-03-23,All,816499,188459
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-03-23,All,407505,76262
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-03-23,All,2066705,135965
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-03-23,All,394323,102731
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-03-23,All,616552,77950
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-03-23,All,567899,96241
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-03-23,All,5290862,77516
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-03-23,All,185683,43834
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-03-23,All,206594,45114
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-03-23,All,816555,188472
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-03-23,All,407578,76276
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-03-23,All,2066802,135972
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-03-23,All,394345,102737
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-03-23,All,616606,77957
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-03-23,All,567954,96250
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-03-23,All,28745,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2022-03-23,All,926760,43261
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-03-23,All,1200630,23738
@@ -410,7 +410,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 480,MU,MUS,480,,,,Mauritius,-20.348404,57.552152,Mauritius,2022-03-23,All,2036896,160162
 484,MX,MEX,484,,,,Mexico,23.6345,-102.5528,Mexico,2022-03-23,All,188885665,147806
 583,FM,FSM,583,,,,Micronesia,7.4256,150.5508,Micronesia,2022-03-23,All,114612,100700
-498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,2022-03-23,All,2113955,52403
+498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,2022-03-23,All,2115629,52445
 492,MC,MCO,492,,,,Monaco,43.7333,7.4167,Monaco,2022-03-23,All,49980,127357
 496,MN,MNG,496,,,,Mongolia,46.8625,103.8467,Mongolia,2022-03-23,All,5580780,170234
 499,ME,MNE,499,,,,Montenegro,42.708678000000006,19.37439,Montenegro,2022-03-23,All,662356,105460
@@ -427,17 +427,17 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 524007,NP,NPL,524,,,Sudurpashchim,Nepal,29.3863,82.3886,"Sudurpashchim, Nepal",2022-03-23,All,3548813,139031
 524008,NP,NPL,524,,,Unknown,Nepal,,,"Unknown, Nepal",2022-03-23,All,0,0
 528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,2022-03-23,All,34017698,198529
-533,AW,ABW,533,,,Aruba,Netherlands,12.5211,-69.9683,"Aruba, Netherlands",2022-03-23,All,168599,157914
+533,AW,ABW,533,,,Aruba,Netherlands,12.5211,-69.9683,"Aruba, Netherlands",2022-03-23,All,168695,158004
 535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",2022-03-23,All,46874,178765
-531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",2022-03-23,All,246089,149962
+531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",2022-03-23,All,246153,150001
 534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",2022-03-23,All,61650,143766
-554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2022-03-23,All,10889228,225812
+554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2022-03-23,All,10898132,225997
 184,CK,COK,184,,,Cook Islands,New Zealand,-21.2367,-159.7777,"Cook Islands, New Zealand",2022-03-23,All,39016,223472
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,2022-03-23,All,9611936,145095
 562,NE,NER,562,,,,Niger,17.607789,8.081666,Niger,2022-03-23,All,2674381,11048
 566,NG,NGA,566,,,,Nigeria,9.082,8.6753,Nigeria,2022-03-23,All,29613077,14365
 807,MK,MKD,807,,,,North Macedonia,41.6086,21.7453,North Macedonia,2022-03-23,All,1829630,87820
-578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,2022-03-23,All,11260152,207704
+578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,2022-03-23,All,11261106,207721
 512,OM,OMN,512,,,,Oman,21.512583,55.92325500000001,Oman,2022-03-23,All,6920193,135514
 586,PK,PAK,586,,,,Pakistan,30.3753,69.3451,Pakistan,2022-03-23,All,226203802,102404
 585,PW,PLW,8,,,,Palau,7.515,134.5825,Palau,2022-03-23,All,44526,247256
@@ -558,7 +558,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-03-23,All,190758,193978
 694,SL,SLE,694,,,,Sierra Leone,8.460555000000001,-11.779889,Sierra Leone,2022-03-23,All,2134324,26756
 702,SG,SGP,702,,,,Singapore,1.2833,103.8333,Singapore,2022-03-23,All,13780673,235553
-703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2022-03-23,All,7047655,129086
+703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2022-03-23,All,7048320,129098
 705,SI,SVN,705,,,,Slovenia,46.1512,14.9955,Slovenia,2022-03-23,All,3120613,150106
 70501,SI,SVN,705,,,Gorenjska,Slovenia,46.3154,14.2913,"Gorenjska, Slovenia",2022-03-23,All,316198,154491
 70502,SI,SVN,705,,,Goriska,Slovenia,45.9402,13.6202,"Goriska, Slovenia",2022-03-23,All,181343,154182
@@ -652,13 +652,13 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 75625,CH,CHE,756,,,Zug,Switzerland,47.1662,8.5155,"Zug, Switzerland",2022-03-23,All,242989,190367
 75626,CH,CHE,756,,,Zurich,Switzerland,47.3769,8.5417,"Zurich, Switzerland",2022-03-23,All,2950711,194002
 760,SY,SYR,760,,,,Syria,34.802075,38.99681500000001,Syria,2022-03-23,All,3187594,18214
-158,TW,TWN,158,,,,Taiwan*,23.7,121.0,Taiwan*,2022-03-23,All,49105829,206181
+158,TW,TWN,158,,,,Taiwan*,23.7,121.0,Taiwan*,2022-03-23,All,49167713,206441
 762,TJ,TJK,762,,,,Tajikistan,38.861,71.2761,Tajikistan,2022-03-23,All,10121476,106121
 834,TZ,TZA,834,,,,Tanzania,-6.369028,34.888822,Tanzania,2022-03-23,All,5031070,8422
 764,TH,THA,764,,,,Thailand,15.870032,100.992541,Thailand,2022-03-23,All,127488916,182648
 626,TL,TLS,626,,,,Timor-Leste,-8.874217,125.727539,Timor-Leste,2022-03-23,All,1285685,97515
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2022-03-23,All,2753329,33257
-780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2022-03-23,All,1539299,109989
+780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2022-03-23,All,1539965,110037
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2022-03-23,All,14629647,123784
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2022-03-23,All,146561848,173776
 840,US,USA,840,,,,US,40.0,-100.0,US,2022-03-23,All,556460943,168897
@@ -720,7 +720,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",2022-03-23,All,736404,127238
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2022-03-23,All,17197954,37598
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,2022-03-23,All,24397425,246677
-826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2022-03-23,All,142056831,209257
+826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2022-03-23,All,142056833,209257
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2022-03-23,All,22639,150906
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2022-03-23,All,126461,203075
 92,VG,VGB,92,,,British Virgin Islands,United Kingdom,18.4207,-64.64,"British Virgin Islands, United Kingdom",2022-03-23,All,36829,121801
@@ -729,7 +729,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",2022-03-23,All,117974253,210754
 238,FK,FLK,238,,,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,"Falkland Islands (Malvinas), United Kingdom",2022-03-23,All,4407,126528
 292,GI,GIB,292,,,Gibraltar,United Kingdom,36.1408,-5.3536,"Gibraltar, United Kingdom",2022-03-23,All,114774,340666
-833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",2022-03-23,All,189019,222291
+833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",2022-03-23,All,189021,222293
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366,"Montserrat, United Kingdom",2022-03-23,All,4159,83196
 82602,GB,GBR,826,,,Northern Ireland,United Kingdom,54.7877,-6.4923,"Northern Ireland, United Kingdom",2022-03-23,All,3747793,199181
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2022-03-23,All,7892,139410
