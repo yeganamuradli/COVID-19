@@ -384,24 +384,24 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2022-03-27,All,1278357,204218
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,2022-03-27,All,1279175,4619
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2022-03-27,All,1993981,10423
-458,MY,MYS,458,,,,Malaysia,4.210483999999999,101.975766,Malaysia,2022-03-27,All,68607824,211975
-45801,MY,MYS,458,,,Johor,Malaysia,1.4854,103.7618,"Johor, Malaysia",2022-03-27,All,8391785,222700
-45802,MY,MYS,458,,,Kedah,Malaysia,6.1184,100.3685,"Kedah, Malaysia",2022-03-27,All,3943376,180400
-45803,MY,MYS,458,,,Kelantan,Malaysia,6.1254,102.2381,"Kelantan, Malaysia",2022-03-27,All,2718558,143671
-45804,MY,MYS,458,,,Melaka,Malaysia,2.1896,102.2501,"Melaka, Malaysia",2022-03-27,All,2019566,216529
-45805,MY,MYS,458,,,Negeri Sembilan,Malaysia,2.7258,101.9424,"Negeri Sembilan, Malaysia",2022-03-27,All,2600998,229749
-45806,MY,MYS,458,,,Pahang,Malaysia,3.8126,103.3256,"Pahang, Malaysia",2022-03-27,All,3019075,180017
-45807,MY,MYS,458,,,Perak,Malaysia,4.5921,101.0901,"Perak, Malaysia",2022-03-27,All,4952847,196987
-45808,MY,MYS,458,,,Perlis,Malaysia,6.4449,100.2048,"Perlis, Malaysia",2022-03-27,All,495163,194486
-45809,MY,MYS,458,,,Pulau Pinang,Malaysia,5.4164,100.3327,"Pulau Pinang, Malaysia",2022-03-27,All,4180168,235157
-45810,MY,MYS,458,,,Sabah,Malaysia,5.9788,116.0753,"Sabah, Malaysia",2022-03-27,All,5690339,145730
-45811,MY,MYS,458,,,Sarawak,Malaysia,1.5533,110.3592,"Sarawak, Malaysia",2022-03-27,All,6079389,215726
-45812,MY,MYS,458,,,Selangor,Malaysia,3.0738,101.5183,"Selangor, Malaysia",2022-03-27,All,13835750,211494
-45813,MY,MYS,458,,,Terengganu,Malaysia,5.3117,103.1324,"Terengganu, Malaysia",2022-03-27,All,2133213,170643
+458,MY,MYS,458,,,,Malaysia,4.210483999999999,101.975766,Malaysia,2022-03-27,All,68675263,212183
+45801,MY,MYS,458,,,Johor,Malaysia,1.4854,103.7618,"Johor, Malaysia",2022-03-27,All,8399588,222907
+45802,MY,MYS,458,,,Kedah,Malaysia,6.1184,100.3685,"Kedah, Malaysia",2022-03-27,All,3946002,180520
+45803,MY,MYS,458,,,Kelantan,Malaysia,6.1254,102.2381,"Kelantan, Malaysia",2022-03-27,All,2719465,143719
+45804,MY,MYS,458,,,Melaka,Malaysia,2.1896,102.2501,"Melaka, Malaysia",2022-03-27,All,2021578,216744
+45805,MY,MYS,458,,,Negeri Sembilan,Malaysia,2.7258,101.9424,"Negeri Sembilan, Malaysia",2022-03-27,All,2604097,230023
+45806,MY,MYS,458,,,Pahang,Malaysia,3.8126,103.3256,"Pahang, Malaysia",2022-03-27,All,3022060,180195
+45807,MY,MYS,458,,,Perak,Malaysia,4.5921,101.0901,"Perak, Malaysia",2022-03-27,All,4957483,197171
+45808,MY,MYS,458,,,Perlis,Malaysia,6.4449,100.2048,"Perlis, Malaysia",2022-03-27,All,495504,194620
+45809,MY,MYS,458,,,Pulau Pinang,Malaysia,5.4164,100.3327,"Pulau Pinang, Malaysia",2022-03-27,All,4184818,235419
+45810,MY,MYS,458,,,Sabah,Malaysia,5.9788,116.0753,"Sabah, Malaysia",2022-03-27,All,5698473,145938
+45811,MY,MYS,458,,,Sarawak,Malaysia,1.5533,110.3592,"Sarawak, Malaysia",2022-03-27,All,6084981,215924
+45812,MY,MYS,458,,,Selangor,Malaysia,3.0738,101.5183,"Selangor, Malaysia",2022-03-27,All,13855280,211792
+45813,MY,MYS,458,,,Terengganu,Malaysia,5.3117,103.1324,"Terengganu, Malaysia",2022-03-27,All,2134182,170720
 45817,MY,MYS,458,,,Unknown,Malaysia,,,"Unknown, Malaysia",2022-03-27,All,0,0
-45814,MY,MYS,458,,,W.P. Kuala Lumpur,Malaysia,3.139,101.6869,"W.P. Kuala Lumpur, Malaysia",2022-03-27,All,7945575,446782
-45815,MY,MYS,458,,,W.P. Labuan,Malaysia,5.2831,115.2308,"W.P. Labuan, Malaysia",2022-03-27,All,215307,216606
-45816,MY,MYS,458,,,W.P. Putrajaya,Malaysia,2.9264,101.6964,"W.P. Putrajaya, Malaysia",2022-03-27,All,386715,366902
+45814,MY,MYS,458,,,W.P. Kuala Lumpur,Malaysia,3.139,101.6869,"W.P. Kuala Lumpur, Malaysia",2022-03-27,All,7948765,446961
+45815,MY,MYS,458,,,W.P. Labuan,Malaysia,5.2831,115.2308,"W.P. Labuan, Malaysia",2022-03-27,All,215595,216896
+45816,MY,MYS,458,,,W.P. Putrajaya,Malaysia,2.9264,101.6964,"W.P. Putrajaya, Malaysia",2022-03-27,All,387392,367544
 462,MV,MDV,462,,,,Maldives,3.2028,73.2207,Maldives,2022-03-27,All,913264,168953
 466,ML,MLI,466,,,,Mali,17.570692,-3.996166000000001,Mali,2022-03-27,All,1814171,8958
 470,MT,MLT,470,,,,Malta,35.9375,14.3754,Malta,2022-03-27,All,1255082,284251
