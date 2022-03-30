@@ -548,7 +548,7 @@ United States
 
 
 International
-* Belgium: Providing data Tuesday-Saturday.
+* Belgium: Providing data Tuesdays and Fridays. ~~Providing data Tuesday-Saturday.~~
 * Bosnia and Herezegovina: Not updating data on the weekends.
 * Alberta, Canada: Providing data Monday-Friday.
 * British Columba, Canada: Providing data Monday-Friday.
@@ -568,7 +568,7 @@ International
 * Nicaragua: Releasing case, death, and recovered data once per week.
 * NSW, Australia: NSW Health has suspended its survey of the recovery status of patients with COVID-19 to focus on the recent increase in community transmission on July 31, 2020. Therefore, recovery statistics are no longer presented. ([Source](https://www.nsw.gov.au/covid-19/find-facts-about-covid-19), [Issue #3694](https://github.com/CSSEGISandData/COVID-19/issues/3694))
 * Spain: Providing data twice a week (Tuesdays and Fridays) (as of March 15, 2022). ~~Not updating case or death data on the weekends (and is not currently providing recoveries at any time)~~
-* Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
+* Sweden: Updating once per week (Thursdays) (as of March 24, 2022). ~~Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.~~
 * UK: Providing data Monday-Friday (as of Feb 26, 2022). Daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC)). Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
 * Wales, UK: Providing data Monday-Saturday.
 
