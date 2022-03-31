@@ -31,16 +31,6 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2022-03-31,All,362158,251521
 3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2022-03-31,All,3216595,207326
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2022-03-31,All,2088962,70496
-36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-03-31,All,55961916,219805
-3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-03-31,All,1441240,336659
-3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-03-31,All,17399288,214329
-3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-03-31,All,546050,222333
-3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-03-31,All,10604699,207305
-3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-03-31,All,3850003,219186
-3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-03-31,All,1254558,234277
-3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-03-31,All,0,0
-3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-03-31,All,14763092,222674
-3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-03-31,All,6102986,231999
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-03-31,All,18152356,201549
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-03-31,All,13425032,132407
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-03-31,All,334155,84973
