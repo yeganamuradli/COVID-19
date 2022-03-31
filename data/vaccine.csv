@@ -329,24 +329,24 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 388,JM,JAM,388,,,,Jamaica,18.1096,-77.2975,Jamaica,2022-03-31,All,1393819,47070
 392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2022-03-31,All,254345587,201101
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,2022-03-31,All,9727982,95343
-398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,2022-03-31,All,18609842,99111
-39801,KZ,KAZ,398,,,Aktobe,Kazakhstan,50.2839,57.167,"Aktobe, Kazakhstan",2022-03-31,All,779118,97751
-39802,KZ,KAZ,398,,,Almaty,Kazakhstan,45.0119,78.4229,"Almaty, Kazakhstan",2022-03-31,All,1959990,95182
-39803,KZ,KAZ,398,,,Almaty City,Kazakhstan,43.222,76.8512,"Almaty City, Kazakhstan",2022-03-31,All,2169527,109737
-39804,KZ,KAZ,398,,,Aqmola,Kazakhstan,51.9165,69.411,"Aqmola, Kazakhstan",2022-03-31,All,695144,97222
-39805,KZ,KAZ,398,,,Atyrau,Kazakhstan,47.0945,51.9238,"Atyrau, Kazakhstan",2022-03-31,All,528281,94948
-39806,KZ,KAZ,398,,,East Kazakhstan,Kazakhstan,48.7063,80.7923,"East Kazakhstan, Kazakhstan",2022-03-31,All,1833915,133901
-39807,KZ,KAZ,398,,,Jambyl,Kazakhstan,44.222,72.3658,"Jambyl, Kazakhstan",2022-03-31,All,1263727,117924
-39808,KZ,KAZ,398,,,Mangystau,Kazakhstan,43.6895,51.3043,"Mangystau, Kazakhstan",2022-03-31,All,421076,70566
-39809,KZ,KAZ,398,,,North Kazakhstan,Kazakhstan,54.1622,69.9387,"North Kazakhstan, Kazakhstan",2022-03-31,All,602633,104009
-39810,KZ,KAZ,398,,,Nur-Sultan,Kazakhstan,51.1605,71.4704,"Nur-Sultan, Kazakhstan",2022-03-31,All,967328,85151
-39811,KZ,KAZ,398,,,Pavlodar,Kazakhstan,52.2873,76.9674,"Pavlodar, Kazakhstan",2022-03-31,All,720089,95409
-39812,KZ,KAZ,398,,,Qaraghandy,Kazakhstan,49.8047,73.1094,"Qaraghandy, Kazakhstan",2022-03-31,All,1291272,93647
-39813,KZ,KAZ,398,,,Qostanay,Kazakhstan,53.2198,63.6354,"Qostanay, Kazakhstan",2022-03-31,All,706132,79973
-39814,KZ,KAZ,398,,,Qyzylorda,Kazakhstan,44.6923,62.6572,"Qyzylorda, Kazakhstan",2022-03-31,All,847859,106044
-39815,KZ,KAZ,398,,,Shymkent,Kazakhstan,42.3417,69.5901,"Shymkent, Kazakhstan",2022-03-31,All,1190905,99242
-39816,KZ,KAZ,398,,,Turkistan,Kazakhstan,42.2663,68.1431,"Turkistan, Kazakhstan",2022-03-31,All,2093210,77959
-39817,KZ,KAZ,398,,,West Kazakhstan,Kazakhstan,49.568000000000005,50.8067,"West Kazakhstan, Kazakhstan",2022-03-31,All,539636,82155
+398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,2022-03-31,All,18617031,99149
+39801,KZ,KAZ,398,,,Aktobe,Kazakhstan,50.2839,57.167,"Aktobe, Kazakhstan",2022-03-31,All,779833,97841
+39802,KZ,KAZ,398,,,Almaty,Kazakhstan,45.0119,78.4229,"Almaty, Kazakhstan",2022-03-31,All,1961313,95246
+39803,KZ,KAZ,398,,,Almaty City,Kazakhstan,43.222,76.8512,"Almaty City, Kazakhstan",2022-03-31,All,2170261,109774
+39804,KZ,KAZ,398,,,Aqmola,Kazakhstan,51.9165,69.411,"Aqmola, Kazakhstan",2022-03-31,All,695585,97284
+39805,KZ,KAZ,398,,,Atyrau,Kazakhstan,47.0945,51.9238,"Atyrau, Kazakhstan",2022-03-31,All,528399,94969
+39806,KZ,KAZ,398,,,East Kazakhstan,Kazakhstan,48.7063,80.7923,"East Kazakhstan, Kazakhstan",2022-03-31,All,1834015,133909
+39807,KZ,KAZ,398,,,Jambyl,Kazakhstan,44.222,72.3658,"Jambyl, Kazakhstan",2022-03-31,All,1263950,117944
+39808,KZ,KAZ,398,,,Mangystau,Kazakhstan,43.6895,51.3043,"Mangystau, Kazakhstan",2022-03-31,All,421718,70674
+39809,KZ,KAZ,398,,,North Kazakhstan,Kazakhstan,54.1622,69.9387,"North Kazakhstan, Kazakhstan",2022-03-31,All,603341,104131
+39810,KZ,KAZ,398,,,Nur-Sultan,Kazakhstan,51.1605,71.4704,"Nur-Sultan, Kazakhstan",2022-03-31,All,967706,85184
+39811,KZ,KAZ,398,,,Pavlodar,Kazakhstan,52.2873,76.9674,"Pavlodar, Kazakhstan",2022-03-31,All,720302,95437
+39812,KZ,KAZ,398,,,Qaraghandy,Kazakhstan,49.8047,73.1094,"Qaraghandy, Kazakhstan",2022-03-31,All,1292012,93701
+39813,KZ,KAZ,398,,,Qostanay,Kazakhstan,53.2198,63.6354,"Qostanay, Kazakhstan",2022-03-31,All,706315,79993
+39814,KZ,KAZ,398,,,Qyzylorda,Kazakhstan,44.6923,62.6572,"Qyzylorda, Kazakhstan",2022-03-31,All,848166,106082
+39815,KZ,KAZ,398,,,Shymkent,Kazakhstan,42.3417,69.5901,"Shymkent, Kazakhstan",2022-03-31,All,1191058,99254
+39816,KZ,KAZ,398,,,Turkistan,Kazakhstan,42.2663,68.1431,"Turkistan, Kazakhstan",2022-03-31,All,2093212,77959
+39817,KZ,KAZ,398,,,West Kazakhstan,Kazakhstan,49.568000000000005,50.8067,"West Kazakhstan, Kazakhstan",2022-03-31,All,539845,82187
 404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2022-03-31,All,17595442,32722
 296,KI,KIR,296,,,,Kiribati,-3.3704,-168.734,Kiribati,2022-03-31,All,136758,116284
 410,KR,KOR,410,,,,"Korea, South",35.90775700000001,127.766922,"Korea, South",2022-03-31,All,122120134,238194
