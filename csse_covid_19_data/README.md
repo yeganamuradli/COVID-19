@@ -312,6 +312,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * March 28, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 * March 28, 2022: Tennessee, US | Corrected from 2020-03-12 to 2022-03-19
 * March 30, 2022: China | Inclusion of asymptomatic cases reported from the National Health Commission of the People's Republic of China | [Data Source](http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml)
+* March 31, 2022: China | Adjusting of asymptomatic cases reported from the National Health Commission of the People's Republic of China | [Data Source](http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
