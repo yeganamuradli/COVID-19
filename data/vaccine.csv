@@ -41,7 +41,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-04-05,All,0,0
 3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-04-05,All,14935716,225278
 3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-04-05,All,6201340,235738
-40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-04-05,All,18169122,201735
+40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-04-05,All,18171700,201764
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-04-05,All,13491577,133063
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-04-05,All,335729,85373
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2022-04-05,All,3426136,201349
@@ -63,20 +63,20 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-04-05,All,728077,130951
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-04-05,All,36974458,221152
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-04-05,All,1558668,5871
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-04-05,All,82292890,217385
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-04-05,All,82293168,217386
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-04-05,All,8586230,194560
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-04-05,All,11495364,224917
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-04-05,All,2863534,207876
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2022-04-05,All,1740082,223089
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2022-04-05,All,970503,186146
-12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2022-04-05,All,100094,222906
+12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2022-04-05,All,100212,223169
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.682,-63.7443,"Nova Scotia, Canada",2022-04-05,All,2235685,228724
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2022-04-05,All,76670,197705
 12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-04-05,All,32097800,218176
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2022-04-05,All,373337,236053
 12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-04-05,All,19031424,222911
 12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-04-05,All,2336814,197755
-12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2022-04-05,All,91357,222398
+12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2022-04-05,All,91517,222788
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,2022-04-05,All,1012846,20970
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-04-05,All,419469,2553
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2022-04-05,All,50865874,266087
@@ -355,32 +355,32 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-04-05,All,2922653,44797
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-04-05,All,10081203,138562
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-04-05,All,2876683,152511
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-04-05,All,5317496,77906
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-04-05,All,187435,44248
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-04-05,All,208887,45615
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-04-05,All,820514,189386
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-04-05,All,411860,77077
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-04-05,All,2073915,136440
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-04-05,All,396073,103187
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-04-05,All,619884,78371
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-04-05,All,570164,96625
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-04-05,All,5317658,77909
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-04-05,All,187440,44249
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-04-05,All,208899,45617
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-04-05,All,820546,189393
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-04-05,All,411890,77083
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-04-05,All,2073967,136443
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-04-05,All,396081,103189
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-04-05,All,619892,78373
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-04-05,All,570179,96627
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-04-05,All,28764,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2022-04-05,All,905438,42265
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-04-05,All,1200630,23738
 434,LY,LBY,434,,,,Libya,26.3351,17.228331,Libya,2022-04-05,All,3198389,46547
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2022-04-05,All,70434,184686
-440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-04-05,All,4468091,164129
-44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2022-04-05,All,211441,
-44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-04-05,All,977081,
-44003,LT,LTU,440,,,Klaipeda,Lithuania,,,"Klaipeda, Lithuania",2022-04-05,All,430990,
-44004,LT,LTU,440,,,Marijampole,Lithuania,,,"Marijampole, Lithuania",2022-04-05,All,192431,
-44005,LT,LTU,440,,,Panevezys,Lithuania,,,"Panevezys, Lithuania",2022-04-05,All,334574,
-44006,LT,LTU,440,,,Siauliai,Lithuania,,,"Siauliai, Lithuania",2022-04-05,All,388991,
-44007,LT,LTU,440,,,Taurage,Lithuania,,,"Taurage, Lithuania",2022-04-05,All,122219,
-44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2022-04-05,All,163943,
+440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-04-05,All,4468646,164150
+44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2022-04-05,All,211458,
+44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-04-05,All,977194,
+44003,LT,LTU,440,,,Klaipeda,Lithuania,,,"Klaipeda, Lithuania",2022-04-05,All,431033,
+44004,LT,LTU,440,,,Marijampole,Lithuania,,,"Marijampole, Lithuania",2022-04-05,All,192438,
+44005,LT,LTU,440,,,Panevezys,Lithuania,,,"Panevezys, Lithuania",2022-04-05,All,334597,
+44006,LT,LTU,440,,,Siauliai,Lithuania,,,"Siauliai, Lithuania",2022-04-05,All,389042,
+44007,LT,LTU,440,,,Taurage,Lithuania,,,"Taurage, Lithuania",2022-04-05,All,122226,
+44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2022-04-05,All,163967,
 44011,LT,LTU,440,,,Unknown,Lithuania,,,"Unknown, Lithuania",2022-04-05,All,60853,
-44009,LT,LTU,440,,,Utena,Lithuania,,,"Utena, Lithuania",2022-04-05,All,198484,
-44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2022-04-05,All,1447633,
+44009,LT,LTU,440,,,Utena,Lithuania,,,"Utena, Lithuania",2022-04-05,All,198500,
+44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2022-04-05,All,1447887,
 442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2022-04-05,All,1281814,204770
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,2022-04-05,All,1306962,4719
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2022-04-05,All,1993981,10423
@@ -553,7 +553,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-04-05,All,304893,155454
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-04-05,All,69215,203945
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-04-05,All,151040,68917
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-04-05,All,63231423,181627
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-04-05,All,63231906,181628
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-04-05,All,2496373,14909
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-04-05,All,8494958,97225
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-04-05,All,199850,203223
